@@ -16,8 +16,8 @@ ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 LINES;
 
--- SET FOREIGN_KEY_CHECKS = 0;
--- TRUNCATE table Student; 
+SET FOREIGN_KEY_CHECKS = 0;
+TRUNCATE table `Group` ; 
 
 #To insert data into Student table
 LOAD DATA LOCAL INFILE
@@ -32,6 +32,24 @@ IGNORE 1 LINES;
 LOAD DATA LOCAL INFILE
 '/Users/admin/Documents/unal/Transactional-Databases/professors.csv'
 INTO TABLE Professor 
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES;
+
+#To insert data into Group table
+LOAD DATA LOCAL INFILE
+'/Users/admin/Documents/unal/Transactional-Databases/groups.csv'
+INTO TABLE `Group`  
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES;
+
+#To insert data into Schedule table
+LOAD DATA LOCAL INFILE
+'/Users/admin/Documents/unal/Transactional-Databases/schedules.csv'
+INTO TABLE `Group`  
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
