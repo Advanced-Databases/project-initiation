@@ -1,2 +1,5 @@
 # Transactional-Databases
-This is a test
+## Team:
+Laura Beatriz Santos Guerrero
+Edwin Ricardo Mahecha Parra
+Brian Chaparro Cetina
