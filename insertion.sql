@@ -21,7 +21,7 @@ TRUNCATE table `Group` ;
 
 #To insert data into Student table
 LOAD DATA LOCAL INFILE
-'/Users/admin/Documents/unal/Transactional-Databases/students.csv'
+'/home/brian/advanced_databases/students.csv'
 INTO TABLE Student
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -30,7 +30,7 @@ IGNORE 1 LINES;
 
 #To insert data into Professor table
 LOAD DATA LOCAL INFILE
-'/Users/admin/Documents/unal/Transactional-Databases/professors.csv'
+'/home/brian/advanced_databases/professors.csv'
 INTO TABLE Professor 
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -39,7 +39,7 @@ IGNORE 1 LINES;
 
 #To insert data into Group table
 LOAD DATA LOCAL INFILE
-'/Users/admin/Documents/unal/Transactional-Databases/groups.csv'
+'/home/brian/advanced_databases/groups.csv'
 INTO TABLE `Group`  
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -48,8 +48,17 @@ IGNORE 1 LINES;
 
 #To insert data into Schedule table
 LOAD DATA LOCAL INFILE
-'/Users/admin/Documents/unal/Transactional-Databases/schedules.csv'
+'/home/brian/advanced_databases/schedules.csv'
 INTO TABLE `Group`  
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES;
+
+#To insert data into Academic History table
+LOAD DATA LOCAL INFILE
+'/home/brian/advanced_databases/academic_histories.csv'
+INTO TABLE AcademicHistory
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
