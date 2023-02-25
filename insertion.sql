@@ -15,3 +15,15 @@ FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 LINES;
+
+-- SET FOREIGN_KEY_CHECKS = 0;
+-- TRUNCATE table Student; 
+
+#To insert data into Program table
+LOAD DATA LOCAL INFILE
+'/Users/admin/Documents/unal/Transactional-Databases/students.csv'
+INTO TABLE Student
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES;
