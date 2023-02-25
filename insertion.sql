@@ -55,10 +55,19 @@ ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 LINES;
 
-#To insert data into Academic History table
+#To insert data into AcademicHistory table
 LOAD DATA LOCAL INFILE
 '/home/brian/advanced_databases/academic_histories.csv'
 INTO TABLE AcademicHistory
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES;
+
+#To insert data into HistoryCourse table
+LOAD DATA LOCAL INFILE
+'/home/brian/advanced_databases/history_courses.csv'
+INTO TABLE HistoryCourse
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
