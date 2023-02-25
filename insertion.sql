@@ -49,7 +49,7 @@ IGNORE 1 LINES;
 #To insert data into Schedule table
 LOAD DATA LOCAL INFILE
 '/home/brian/advanced_databases/schedules.csv'
-INTO TABLE `Group`  
+INTO TABLE `Schedule`  
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
@@ -68,6 +68,24 @@ IGNORE 1 LINES;
 LOAD DATA LOCAL INFILE
 '/home/brian/advanced_databases/history_courses.csv'
 INTO TABLE HistoryCourse
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES;
+
+#To insert data into Prerequisite table
+LOAD DATA LOCAL INFILE
+'/home/brian/advanced_databases/prerequisites.csv'
+INTO TABLE Prerequisite
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES;
+
+#To insert data into Typology table
+LOAD DATA LOCAL INFILE
+'/home/brian/advanced_databases/typologies.csv'
+INTO TABLE Typology
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
