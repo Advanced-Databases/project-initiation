@@ -1,0 +1,1242 @@
+academic_history_id,student_id,program_id,sia_code,name,status,start_date,end_date
+1,1,1,332626,Ingeniería de Sistemas y Computación,INACTIVE,2015-02-13,2019-02-11
+2,2,1,113232,Ingeniería de Sistemas y Computación,ACTIVE,2016-10-24,2021-02-07
+3,3,2,34784,Ingeniería Electrónica,ACTIVE,2009-06-19,2013-03-13
+4,3,2,499579,Ingeniería Electrónica,ACTIVE,2009-10-18,2016-01-04
+5,4,1,49474,Ingeniería de Sistemas y Computación,ACTIVE,2012-12-13,2019-05-04
+6,5,1,342436,Ingeniería de Sistemas y Computación,ACTIVE,2017-11-15,2022-09-27
+7,6,1,52037,Ingeniería de Sistemas y Computación,ACTIVE,2008-07-20,2014-05-07
+8,6,1,478674,Ingeniería de Sistemas y Computación,ACTIVE,2008-07-04,2014-06-16
+9,7,2,93637,Ingeniería Electrónica,ACTIVE,2008-06-08,2015-12-29
+10,8,1,16527,Ingeniería de Sistemas y Computación,ACTIVE,2022-11-04,2026-08-19
+11,9,1,101641,Ingeniería de Sistemas y Computación,ACTIVE,2016-04-05,2021-07-08
+12,10,1,345385,Ingeniería de Sistemas y Computación,ACTIVE,2020-05-12,2024-07-21
+13,11,1,241407,Ingeniería de Sistemas y Computación,ACTIVE,2010-05-06,2014-11-04
+14,11,1,237174,Ingeniería de Sistemas y Computación,ACTIVE,2018-04-06,2025-10-30
+15,12,1,79069,Ingeniería de Sistemas y Computación,ACTIVE,2010-11-23,2014-01-26
+16,13,1,135239,Ingeniería de Sistemas y Computación,ACTIVE,2010-06-14,2016-04-30
+17,14,1,477050,Ingeniería de Sistemas y Computación,ACTIVE,2019-04-08,2023-06-11
+18,15,1,412133,Ingeniería de Sistemas y Computación,ACTIVE,2008-04-10,2013-03-09
+19,16,1,317846,Ingeniería de Sistemas y Computación,INACTIVE,2021-10-15,2028-07-28
+20,17,1,105666,Ingeniería de Sistemas y Computación,INACTIVE,2013-09-07,2020-02-06
+21,18,1,15072,Ingeniería de Sistemas y Computación,INACTIVE,2013-08-03,2017-06-05
+22,19,1,77310,Ingeniería de Sistemas y Computación,ACTIVE,2019-05-14,2025-08-03
+23,20,1,292050,Ingeniería de Sistemas y Computación,ACTIVE,2011-06-09,2016-01-25
+24,20,2,24564,Ingeniería Electrónica,ACTIVE,2017-03-23,2023-09-14
+25,21,1,193690,Ingeniería de Sistemas y Computación,ACTIVE,2019-03-23,2023-07-01
+26,21,1,286934,Ingeniería de Sistemas y Computación,ACTIVE,2012-06-17,2017-06-09
+27,21,1,176298,Ingeniería de Sistemas y Computación,ACTIVE,2021-04-02,2026-01-27
+28,22,1,257730,Ingeniería de Sistemas y Computación,ACTIVE,2019-11-29,2026-01-25
+29,23,1,488764,Ingeniería de Sistemas y Computación,ACTIVE,2008-05-12,2013-03-05
+30,24,1,200796,Ingeniería de Sistemas y Computación,ACTIVE,2017-10-16,2024-11-21
+31,25,1,106807,Ingeniería de Sistemas y Computación,ACTIVE,2013-07-01,2020-05-02
+32,26,1,111618,Ingeniería de Sistemas y Computación,ACTIVE,2008-04-19,2014-03-10
+33,26,2,260233,Ingeniería Electrónica,ACTIVE,2010-07-21,2017-09-14
+34,27,1,362438,Ingeniería de Sistemas y Computación,ACTIVE,2014-09-07,2019-05-25
+35,28,1,453857,Ingeniería de Sistemas y Computación,ACTIVE,2017-03-07,2023-12-29
+36,29,3,323695,Ingeniería Mecatrónica,INACTIVE,2017-07-21,2022-01-11
+37,29,1,279048,Ingeniería de Sistemas y Computación,ACTIVE,2016-02-07,2020-07-23
+38,30,1,49112,Ingeniería de Sistemas y Computación,ACTIVE,2016-07-12,2022-05-08
+39,31,1,417772,Ingeniería de Sistemas y Computación,ACTIVE,2022-12-01,2027-10-01
+40,31,2,79071,Ingeniería Electrónica,ACTIVE,2018-11-25,2024-10-30
+41,32,1,293041,Ingeniería de Sistemas y Computación,ACTIVE,2019-05-13,2024-12-06
+42,32,1,87022,Ingeniería de Sistemas y Computación,ACTIVE,2016-07-28,2020-06-27
+43,32,1,340398,Ingeniería de Sistemas y Computación,ACTIVE,2008-01-30,2012-10-10
+44,33,1,494676,Ingeniería de Sistemas y Computación,ACTIVE,2019-07-18,2023-07-15
+45,34,2,270533,Ingeniería Electrónica,ACTIVE,2015-10-30,2021-08-05
+46,35,1,258349,Ingeniería de Sistemas y Computación,ACTIVE,2018-09-16,2022-06-05
+47,36,1,82828,Ingeniería de Sistemas y Computación,ACTIVE,2023-01-24,2028-05-26
+48,37,1,414298,Ingeniería de Sistemas y Computación,ACTIVE,2015-11-11,2022-05-11
+49,38,1,53217,Ingeniería de Sistemas y Computación,ACTIVE,2018-11-12,2024-07-31
+50,38,1,214465,Ingeniería de Sistemas y Computación,ACTIVE,2020-08-03,2025-11-10
+51,39,1,351682,Ingeniería de Sistemas y Computación,ACTIVE,2017-11-19,2024-06-12
+52,40,1,120872,Ingeniería de Sistemas y Computación,ACTIVE,2021-04-14,2025-09-14
+53,41,2,435389,Ingeniería Electrónica,ACTIVE,2018-08-15,2023-06-27
+54,41,1,397489,Ingeniería de Sistemas y Computación,ACTIVE,2020-11-24,2024-10-27
+55,42,1,130436,Ingeniería de Sistemas y Computación,ACTIVE,2020-04-28,2024-12-10
+56,42,1,140253,Ingeniería de Sistemas y Computación,ACTIVE,2015-02-11,2020-03-25
+57,42,1,431482,Ingeniería de Sistemas y Computación,ACTIVE,2009-12-17,2014-01-05
+58,43,3,16493,Ingeniería Mecatrónica,ACTIVE,2021-09-07,2028-02-27
+59,43,1,311258,Ingeniería de Sistemas y Computación,ACTIVE,2014-05-04,2019-06-12
+60,44,1,458440,Ingeniería de Sistemas y Computación,ACTIVE,2011-07-07,2016-08-15
+61,44,1,77522,Ingeniería de Sistemas y Computación,ACTIVE,2009-08-06,2016-04-22
+62,45,1,422801,Ingeniería de Sistemas y Computación,ACTIVE,2022-05-15,2028-09-01
+63,46,3,207894,Ingeniería Mecatrónica,INACTIVE,2014-05-18,
+64,47,1,271651,Ingeniería de Sistemas y Computación,ACTIVE,2008-05-02,2013-09-07
+65,48,1,434846,Ingeniería de Sistemas y Computación,INACTIVE,2015-06-11,2019-01-28
+66,49,1,312454,Ingeniería de Sistemas y Computación,ACTIVE,2016-10-08,2021-05-30
+67,50,1,232051,Ingeniería de Sistemas y Computación,INACTIVE,2015-08-10,2022-12-14
+68,51,1,429847,Ingeniería de Sistemas y Computación,INACTIVE,2012-04-15,
+69,51,1,396529,Ingeniería de Sistemas y Computación,ACTIVE,2014-08-20,2018-08-15
+70,52,1,432559,Ingeniería de Sistemas y Computación,ACTIVE,2018-10-19,2022-11-13
+71,53,1,381128,Ingeniería de Sistemas y Computación,ACTIVE,2008-01-28,2015-08-03
+72,54,1,197099,Ingeniería de Sistemas y Computación,INACTIVE,2023-01-06,2030-03-14
+73,55,1,205054,Ingeniería de Sistemas y Computación,ACTIVE,2011-03-28,2015-01-23
+74,56,1,498409,Ingeniería de Sistemas y Computación,ACTIVE,2014-03-29,2018-08-23
+75,57,1,122008,Ingeniería de Sistemas y Computación,ACTIVE,2019-04-21,2024-07-23
+76,58,1,429906,Ingeniería de Sistemas y Computación,ACTIVE,2021-09-03,2027-09-12
+77,58,1,379234,Ingeniería de Sistemas y Computación,ACTIVE,2011-04-08,2016-08-19
+78,59,1,288724,Ingeniería de Sistemas y Computación,ACTIVE,2015-12-10,2021-04-07
+79,60,1,49137,Ingeniería de Sistemas y Computación,ACTIVE,2016-01-19,2020-09-18
+80,60,1,299577,Ingeniería de Sistemas y Computación,ACTIVE,2010-06-22,2017-04-19
+81,60,1,305849,Ingeniería de Sistemas y Computación,ACTIVE,2022-09-28,2028-03-20
+82,61,1,45343,Ingeniería de Sistemas y Computación,ACTIVE,2014-02-14,2019-05-02
+83,62,1,34807,Ingeniería de Sistemas y Computación,ACTIVE,2009-07-22,2013-05-25
+84,63,1,399733,Ingeniería de Sistemas y Computación,ACTIVE,2013-06-03,2017-10-31
+85,64,1,404147,Ingeniería de Sistemas y Computación,ACTIVE,2019-10-07,2025-08-08
+86,65,1,82293,Ingeniería de Sistemas y Computación,ACTIVE,2008-09-17,2015-02-06
+87,65,1,351555,Ingeniería de Sistemas y Computación,ACTIVE,2011-08-17,2018-08-23
+88,66,1,348628,Ingeniería de Sistemas y Computación,ACTIVE,2016-07-31,2021-01-23
+89,67,1,229123,Ingeniería de Sistemas y Computación,ACTIVE,2014-05-22,2020-10-21
+90,68,1,352555,Ingeniería de Sistemas y Computación,INACTIVE,2018-05-26,2023-01-26
+91,69,1,171773,Ingeniería de Sistemas y Computación,ACTIVE,2012-01-08,2017-03-16
+92,70,1,394006,Ingeniería de Sistemas y Computación,INACTIVE,2010-05-13,2017-08-17
+93,71,1,493843,Ingeniería de Sistemas y Computación,INACTIVE,2012-11-30,
+94,72,2,321273,Ingeniería Electrónica,ACTIVE,2014-08-14,2021-06-10
+95,72,1,198409,Ingeniería de Sistemas y Computación,ACTIVE,2016-11-20,2023-03-19
+96,72,1,282286,Ingeniería de Sistemas y Computación,ACTIVE,2020-06-27,2025-12-05
+97,73,1,473793,Ingeniería de Sistemas y Computación,ACTIVE,2013-06-27,2018-04-19
+98,74,1,273739,Ingeniería de Sistemas y Computación,ACTIVE,2020-11-15,2026-12-26
+99,75,1,105180,Ingeniería de Sistemas y Computación,ACTIVE,2018-07-30,2022-05-10
+100,76,1,254582,Ingeniería de Sistemas y Computación,ACTIVE,2008-07-19,2014-11-24
+101,77,1,244817,Ingeniería de Sistemas y Computación,INACTIVE,2009-01-14,2014-02-18
+102,78,3,57031,Ingeniería Mecatrónica,ACTIVE,2021-04-25,2027-10-19
+103,79,1,336254,Ingeniería de Sistemas y Computación,ACTIVE,2017-05-28,2022-03-02
+104,79,2,144636,Ingeniería Electrónica,ACTIVE,2015-10-25,2020-06-20
+105,80,1,61671,Ingeniería de Sistemas y Computación,ACTIVE,2010-01-03,2015-12-25
+106,81,1,125121,Ingeniería de Sistemas y Computación,INACTIVE,2011-05-02,2017-05-28
+107,82,3,82558,Ingeniería Mecatrónica,INACTIVE,2016-04-13,2023-05-31
+108,83,1,229137,Ingeniería de Sistemas y Computación,ACTIVE,2018-02-17,2024-08-21
+109,84,1,314378,Ingeniería de Sistemas y Computación,ACTIVE,2013-09-21,2017-03-17
+110,85,1,47797,Ingeniería de Sistemas y Computación,INACTIVE,2022-06-05,2029-10-20
+111,85,1,11231,Ingeniería de Sistemas y Computación,ACTIVE,2009-11-03,2016-02-27
+112,86,1,285247,Ingeniería de Sistemas y Computación,ACTIVE,2014-03-29,2020-03-18
+113,87,1,197496,Ingeniería de Sistemas y Computación,ACTIVE,2015-02-21,2019-07-22
+114,88,1,15790,Ingeniería de Sistemas y Computación,ACTIVE,2017-03-24,2024-02-13
+115,89,1,248574,Ingeniería de Sistemas y Computación,ACTIVE,2019-01-02,2024-06-03
+116,90,1,45494,Ingeniería de Sistemas y Computación,ACTIVE,2019-03-07,2024-03-29
+117,90,1,126402,Ingeniería de Sistemas y Computación,ACTIVE,2015-06-19,2020-09-18
+118,91,2,99550,Ingeniería Electrónica,ACTIVE,2011-09-28,2016-01-16
+119,92,1,182449,Ingeniería de Sistemas y Computación,ACTIVE,2022-08-18,2027-01-08
+120,93,2,445650,Ingeniería Electrónica,ACTIVE,2015-06-08,2021-07-12
+121,94,1,202105,Ingeniería de Sistemas y Computación,ACTIVE,2014-11-29,2018-09-21
+122,94,1,80827,Ingeniería de Sistemas y Computación,INACTIVE,2017-10-08,
+123,94,1,162519,Ingeniería de Sistemas y Computación,ACTIVE,2020-05-15,2026-02-05
+124,95,2,172558,Ingeniería Electrónica,ACTIVE,2016-01-09,2023-03-30
+125,95,2,45746,Ingeniería Electrónica,ACTIVE,2010-03-24,2017-04-17
+126,96,1,111912,Ingeniería de Sistemas y Computación,ACTIVE,2009-06-24,2014-06-14
+127,96,1,81591,Ingeniería de Sistemas y Computación,INACTIVE,2008-02-14,2013-02-17
+128,97,1,246368,Ingeniería de Sistemas y Computación,INACTIVE,2018-11-15,2023-11-18
+129,98,3,127349,Ingeniería Mecatrónica,ACTIVE,2022-12-07,2026-12-06
+130,98,1,143002,Ingeniería de Sistemas y Computación,ACTIVE,2016-10-04,2023-10-09
+131,98,1,176155,Ingeniería de Sistemas y Computación,ACTIVE,2009-12-01,2015-11-27
+132,99,1,92933,Ingeniería de Sistemas y Computación,ACTIVE,2013-08-07,2017-08-29
+133,100,1,128688,Ingeniería de Sistemas y Computación,ACTIVE,2012-11-05,2017-08-14
+134,101,1,129268,Ingeniería de Sistemas y Computación,ACTIVE,2015-10-07,2022-08-17
+135,102,1,316654,Ingeniería de Sistemas y Computación,ACTIVE,2013-04-01,2018-04-19
+136,102,2,114154,Ingeniería Electrónica,ACTIVE,2013-07-28,2018-02-02
+137,103,1,95225,Ingeniería de Sistemas y Computación,ACTIVE,2009-02-21,2013-03-04
+138,104,1,152518,Ingeniería de Sistemas y Computación,ACTIVE,2015-03-13,2022-06-07
+139,105,1,363414,Ingeniería de Sistemas y Computación,ACTIVE,2018-03-18,2022-06-09
+140,106,1,438037,Ingeniería de Sistemas y Computación,ACTIVE,2018-07-12,2025-01-02
+141,107,1,280387,Ingeniería de Sistemas y Computación,ACTIVE,2014-10-09,2018-02-02
+142,107,1,395300,Ingeniería de Sistemas y Computación,ACTIVE,2013-12-28,2018-11-14
+143,108,2,315554,Ingeniería Electrónica,ACTIVE,2021-12-26,2025-02-14
+144,109,1,93959,Ingeniería de Sistemas y Computación,ACTIVE,2010-02-02,2016-04-11
+145,110,1,351029,Ingeniería de Sistemas y Computación,ACTIVE,2012-03-23,2016-01-12
+146,111,1,226856,Ingeniería de Sistemas y Computación,ACTIVE,2013-08-21,2020-05-02
+147,112,1,292427,Ingeniería de Sistemas y Computación,ACTIVE,2019-06-10,2026-03-14
+148,113,1,213296,Ingeniería de Sistemas y Computación,ACTIVE,2020-06-24,2027-09-02
+149,114,1,36278,Ingeniería de Sistemas y Computación,ACTIVE,2008-07-30,2013-09-02
+150,115,1,236811,Ingeniería de Sistemas y Computación,ACTIVE,2011-12-30,2016-12-05
+151,116,1,249525,Ingeniería de Sistemas y Computación,ACTIVE,2022-08-11,2029-02-15
+152,117,1,193815,Ingeniería de Sistemas y Computación,ACTIVE,2015-09-28,2021-02-08
+153,117,1,365811,Ingeniería de Sistemas y Computación,ACTIVE,2012-08-27,2019-05-21
+154,117,2,361172,Ingeniería Electrónica,ACTIVE,2012-02-24,2018-06-13
+155,118,1,323196,Ingeniería de Sistemas y Computación,ACTIVE,2022-02-13,2029-09-24
+156,119,1,46925,Ingeniería de Sistemas y Computación,ACTIVE,2008-07-05,2015-02-23
+157,120,1,164861,Ingeniería de Sistemas y Computación,ACTIVE,2021-04-23,2027-10-23
+158,121,1,408002,Ingeniería de Sistemas y Computación,ACTIVE,2016-12-26,2021-06-17
+159,122,1,334688,Ingeniería de Sistemas y Computación,ACTIVE,2013-07-06,2018-10-21
+160,123,2,18026,Ingeniería Electrónica,INACTIVE,2016-09-23,2020-06-29
+161,124,1,263673,Ingeniería de Sistemas y Computación,ACTIVE,2010-07-10,2014-01-06
+162,125,1,356611,Ingeniería de Sistemas y Computación,ACTIVE,2013-07-25,2017-11-25
+163,126,1,339998,Ingeniería de Sistemas y Computación,ACTIVE,2010-02-24,2015-06-23
+164,127,1,204539,Ingeniería de Sistemas y Computación,INACTIVE,2022-08-13,2028-09-08
+165,128,1,438449,Ingeniería de Sistemas y Computación,ACTIVE,2022-11-13,2026-10-04
+166,129,1,443168,Ingeniería de Sistemas y Computación,ACTIVE,2014-09-08,2020-12-10
+167,130,1,293042,Ingeniería de Sistemas y Computación,ACTIVE,2020-08-31,2024-08-21
+168,131,1,430678,Ingeniería de Sistemas y Computación,ACTIVE,2015-05-31,2021-05-11
+169,132,1,143702,Ingeniería de Sistemas y Computación,ACTIVE,2008-10-17,2015-07-27
+170,133,1,444540,Ingeniería de Sistemas y Computación,ACTIVE,2016-11-04,2022-11-14
+171,134,1,275907,Ingeniería de Sistemas y Computación,INACTIVE,2016-08-23,2020-01-09
+172,135,2,270655,Ingeniería Electrónica,ACTIVE,2010-08-11,2016-02-24
+173,136,1,474790,Ingeniería de Sistemas y Computación,ACTIVE,2018-04-10,2025-04-30
+174,137,3,320387,Ingeniería Mecatrónica,ACTIVE,2018-03-05,2025-09-25
+175,138,1,135776,Ingeniería de Sistemas y Computación,ACTIVE,2008-01-26,2015-07-11
+176,139,2,400680,Ingeniería Electrónica,ACTIVE,2015-03-01,2019-12-12
+177,140,1,363784,Ingeniería de Sistemas y Computación,INACTIVE,2011-02-17,2015-01-06
+178,141,1,15298,Ingeniería de Sistemas y Computación,INACTIVE,2009-09-02,2014-01-19
+179,142,1,127542,Ingeniería de Sistemas y Computación,ACTIVE,2016-12-30,2022-02-25
+180,143,3,95466,Ingeniería Mecatrónica,ACTIVE,2021-02-12,2028-05-03
+181,144,1,230888,Ingeniería de Sistemas y Computación,ACTIVE,2021-11-28,2026-03-28
+182,145,1,412496,Ingeniería de Sistemas y Computación,ACTIVE,2018-12-17,2022-03-30
+183,146,1,258126,Ingeniería de Sistemas y Computación,ACTIVE,2009-05-12,2015-12-29
+184,146,1,397478,Ingeniería de Sistemas y Computación,ACTIVE,2010-11-28,2015-12-31
+185,146,1,243472,Ingeniería de Sistemas y Computación,ACTIVE,2012-02-03,2018-01-20
+186,147,1,493673,Ingeniería de Sistemas y Computación,ACTIVE,2022-03-14,2026-05-02
+187,148,1,447517,Ingeniería de Sistemas y Computación,ACTIVE,2022-12-10,2028-07-15
+188,149,1,248520,Ingeniería de Sistemas y Computación,ACTIVE,2013-02-23,2018-04-24
+189,150,1,89214,Ingeniería de Sistemas y Computación,INACTIVE,2009-05-24,2016-01-26
+190,151,1,431268,Ingeniería de Sistemas y Computación,ACTIVE,2017-08-20,2024-05-23
+191,152,2,490050,Ingeniería Electrónica,ACTIVE,2019-05-19,2024-01-28
+192,152,3,382467,Ingeniería Mecatrónica,ACTIVE,2020-07-11,2027-04-08
+193,153,1,86739,Ingeniería de Sistemas y Computación,INACTIVE,2021-09-20,2026-08-06
+194,153,1,465382,Ingeniería de Sistemas y Computación,ACTIVE,2010-11-26,2016-11-10
+195,154,1,132724,Ingeniería de Sistemas y Computación,ACTIVE,2008-03-29,2013-03-11
+196,155,1,395420,Ingeniería de Sistemas y Computación,ACTIVE,2018-09-30,2022-03-14
+197,156,2,116695,Ingeniería Electrónica,ACTIVE,2008-11-05,2014-06-16
+198,156,1,354039,Ingeniería de Sistemas y Computación,ACTIVE,2015-12-29,2022-05-28
+199,157,2,443856,Ingeniería Electrónica,INACTIVE,2010-01-04,2015-02-26
+200,157,1,44530,Ingeniería de Sistemas y Computación,INACTIVE,2015-05-23,2019-08-01
+201,158,1,283527,Ingeniería de Sistemas y Computación,ACTIVE,2020-11-03,2027-04-15
+202,159,1,460373,Ingeniería de Sistemas y Computación,ACTIVE,2023-01-26,2028-06-06
+203,160,1,125971,Ingeniería de Sistemas y Computación,ACTIVE,2021-07-05,2027-07-07
+204,161,1,294381,Ingeniería de Sistemas y Computación,ACTIVE,2011-11-23,2017-11-04
+205,162,1,246241,Ingeniería de Sistemas y Computación,ACTIVE,2017-11-28,2023-07-30
+206,163,1,285730,Ingeniería de Sistemas y Computación,ACTIVE,2019-06-12,2026-03-16
+207,164,1,409155,Ingeniería de Sistemas y Computación,ACTIVE,2016-05-16,2021-01-19
+208,165,1,441422,Ingeniería de Sistemas y Computación,INACTIVE,2021-03-06,
+209,166,2,483574,Ingeniería Electrónica,INACTIVE,2009-06-11,2014-04-23
+210,167,3,23569,Ingeniería Mecatrónica,ACTIVE,2010-10-08,2017-02-19
+211,168,1,211724,Ingeniería de Sistemas y Computación,ACTIVE,2008-06-11,2012-06-14
+212,169,1,438859,Ingeniería de Sistemas y Computación,ACTIVE,2009-12-28,2016-04-08
+213,170,1,434710,Ingeniería de Sistemas y Computación,ACTIVE,2010-01-10,2015-04-01
+214,171,1,325060,Ingeniería de Sistemas y Computación,ACTIVE,2008-07-25,2015-03-08
+215,172,1,313186,Ingeniería de Sistemas y Computación,ACTIVE,2022-10-17,2026-02-25
+216,173,2,336884,Ingeniería Electrónica,ACTIVE,2018-10-14,2024-01-12
+217,174,1,231160,Ingeniería de Sistemas y Computación,ACTIVE,2015-05-26,2020-07-29
+218,175,1,252808,Ingeniería de Sistemas y Computación,ACTIVE,2011-04-13,2015-09-28
+219,176,3,159813,Ingeniería Mecatrónica,ACTIVE,2011-04-03,2018-07-10
+220,177,1,240311,Ingeniería de Sistemas y Computación,ACTIVE,2016-11-04,2020-07-07
+221,177,1,435298,Ingeniería de Sistemas y Computación,ACTIVE,2020-09-21,2025-08-13
+222,178,1,473345,Ingeniería de Sistemas y Computación,ACTIVE,2017-05-03,2022-12-15
+223,179,1,287784,Ingeniería de Sistemas y Computación,ACTIVE,2020-08-10,2025-04-01
+224,180,1,32311,Ingeniería de Sistemas y Computación,ACTIVE,2008-11-03,2015-03-22
+225,180,2,413504,Ingeniería Electrónica,ACTIVE,2014-06-17,2018-05-10
+226,180,1,72464,Ingeniería de Sistemas y Computación,ACTIVE,2014-12-07,2021-10-23
+227,181,1,296977,Ingeniería de Sistemas y Computación,INACTIVE,2013-06-28,2017-12-18
+228,181,1,373938,Ingeniería de Sistemas y Computación,ACTIVE,2010-12-21,2016-11-13
+229,182,2,31319,Ingeniería Electrónica,INACTIVE,2014-11-10,2019-04-29
+230,183,1,219588,Ingeniería de Sistemas y Computación,ACTIVE,2020-06-11,2027-07-16
+231,184,1,131617,Ingeniería de Sistemas y Computación,ACTIVE,2019-09-25,2024-05-28
+232,184,1,456800,Ingeniería de Sistemas y Computación,ACTIVE,2015-09-03,2020-09-23
+233,185,1,296142,Ingeniería de Sistemas y Computación,ACTIVE,2020-09-06,2027-02-20
+234,186,1,264031,Ingeniería de Sistemas y Computación,ACTIVE,2016-01-27,2021-10-14
+235,187,1,435256,Ingeniería de Sistemas y Computación,ACTIVE,2013-10-06,2020-02-27
+236,188,2,359523,Ingeniería Electrónica,ACTIVE,2015-10-15,2019-06-01
+237,189,1,19501,Ingeniería de Sistemas y Computación,ACTIVE,2010-04-14,2017-04-15
+238,190,1,178900,Ingeniería de Sistemas y Computación,ACTIVE,2011-01-13,2018-06-29
+239,191,1,304179,Ingeniería de Sistemas y Computación,ACTIVE,2022-02-10,2029-12-09
+240,192,1,146842,Ingeniería de Sistemas y Computación,ACTIVE,2022-05-16,2027-10-08
+241,192,2,474005,Ingeniería Electrónica,ACTIVE,2011-04-12,2015-07-22
+242,193,1,357905,Ingeniería de Sistemas y Computación,ACTIVE,2011-08-03,2018-08-23
+243,194,1,65439,Ingeniería de Sistemas y Computación,ACTIVE,2021-05-02,2025-03-06
+244,195,1,253841,Ingeniería de Sistemas y Computación,ACTIVE,2014-05-01,2021-01-05
+245,196,1,122290,Ingeniería de Sistemas y Computación,ACTIVE,2015-07-28,2022-04-14
+246,196,1,27610,Ingeniería de Sistemas y Computación,INACTIVE,2018-02-07,2024-07-14
+247,196,1,193271,Ingeniería de Sistemas y Computación,ACTIVE,2022-12-03,2027-04-19
+248,197,1,274913,Ingeniería de Sistemas y Computación,ACTIVE,2023-01-06,2030-11-30
+249,198,1,333606,Ingeniería de Sistemas y Computación,ACTIVE,2008-11-11,2015-07-17
+250,199,1,364399,Ingeniería de Sistemas y Computación,ACTIVE,2019-02-05,2024-11-01
+251,200,1,236539,Ingeniería de Sistemas y Computación,ACTIVE,2012-06-07,2017-11-09
+252,201,1,400030,Ingeniería de Sistemas y Computación,ACTIVE,2012-12-06,2018-10-12
+253,201,2,377050,Ingeniería Electrónica,ACTIVE,2013-07-08,2018-05-16
+254,202,1,380479,Ingeniería de Sistemas y Computación,ACTIVE,2013-05-26,2018-07-12
+255,203,2,266328,Ingeniería Electrónica,ACTIVE,2017-02-12,2022-04-10
+256,203,1,122210,Ingeniería de Sistemas y Computación,ACTIVE,2011-04-14,2018-04-08
+257,204,1,78749,Ingeniería de Sistemas y Computación,ACTIVE,2021-02-07,2025-08-31
+258,205,1,102439,Ingeniería de Sistemas y Computación,INACTIVE,2012-02-22,2018-02-18
+259,206,1,270323,Ingeniería de Sistemas y Computación,ACTIVE,2016-09-13,2021-06-19
+260,206,2,439476,Ingeniería Electrónica,ACTIVE,2011-01-18,2015-01-13
+261,206,3,429002,Ingeniería Mecatrónica,ACTIVE,2008-06-23,2015-05-22
+262,207,2,253732,Ingeniería Electrónica,ACTIVE,2014-06-02,2021-09-01
+263,208,1,48614,Ingeniería de Sistemas y Computación,ACTIVE,2009-03-20,2013-03-23
+264,209,1,329998,Ingeniería de Sistemas y Computación,ACTIVE,2016-07-23,2020-12-25
+265,210,1,378290,Ingeniería de Sistemas y Computación,ACTIVE,2010-04-19,2016-08-03
+266,211,1,91884,Ingeniería de Sistemas y Computación,INACTIVE,2019-04-24,2026-09-23
+267,212,1,310588,Ingeniería de Sistemas y Computación,INACTIVE,2022-06-10,2028-06-04
+268,212,1,26297,Ingeniería de Sistemas y Computación,ACTIVE,2020-09-02,2025-08-07
+269,213,1,290927,Ingeniería de Sistemas y Computación,ACTIVE,2021-09-14,2028-07-19
+270,213,1,479900,Ingeniería de Sistemas y Computación,ACTIVE,2020-05-04,2024-07-09
+271,213,1,40179,Ingeniería de Sistemas y Computación,ACTIVE,2017-03-22,2024-01-03
+272,214,1,419384,Ingeniería de Sistemas y Computación,INACTIVE,2008-11-27,2015-09-08
+273,215,1,305281,Ingeniería de Sistemas y Computación,INACTIVE,2015-05-19,2019-08-17
+274,216,1,435573,Ingeniería de Sistemas y Computación,ACTIVE,2016-10-08,2020-03-27
+275,217,2,391230,Ingeniería Electrónica,ACTIVE,2022-11-27,2029-01-25
+276,218,1,179423,Ingeniería de Sistemas y Computación,INACTIVE,2017-05-28,
+277,219,1,310945,Ingeniería de Sistemas y Computación,ACTIVE,2011-04-11,2016-08-21
+278,220,1,29977,Ingeniería de Sistemas y Computación,INACTIVE,2019-01-04,2024-02-19
+279,221,1,417886,Ingeniería de Sistemas y Computación,ACTIVE,2015-06-13,2020-06-21
+280,222,1,247539,Ingeniería de Sistemas y Computación,ACTIVE,2022-07-23,2026-02-07
+281,223,1,206768,Ingeniería de Sistemas y Computación,ACTIVE,2021-11-21,2025-01-20
+282,224,1,156853,Ingeniería de Sistemas y Computación,ACTIVE,2019-05-29,2024-04-01
+283,225,1,277148,Ingeniería de Sistemas y Computación,ACTIVE,2017-05-29,2023-12-23
+284,226,1,461576,Ingeniería de Sistemas y Computación,INACTIVE,2017-01-03,2023-11-28
+285,227,1,13289,Ingeniería de Sistemas y Computación,ACTIVE,2012-10-23,2016-09-30
+286,227,1,213276,Ingeniería de Sistemas y Computación,ACTIVE,2017-06-07,2022-01-24
+287,227,1,236394,Ingeniería de Sistemas y Computación,ACTIVE,2018-03-24,2025-12-06
+288,228,1,246031,Ingeniería de Sistemas y Computación,ACTIVE,2014-05-10,2021-04-21
+289,229,2,317456,Ingeniería Electrónica,ACTIVE,2015-10-15,2022-09-02
+290,229,1,330204,Ingeniería de Sistemas y Computación,ACTIVE,2010-07-26,2015-11-25
+291,229,1,213058,Ingeniería de Sistemas y Computación,ACTIVE,2012-03-02,2017-12-01
+292,230,1,386693,Ingeniería de Sistemas y Computación,ACTIVE,2019-05-11,2025-12-24
+293,231,1,422820,Ingeniería de Sistemas y Computación,INACTIVE,2009-06-06,2013-07-11
+294,232,1,231342,Ingeniería de Sistemas y Computación,ACTIVE,2020-01-08,2024-06-05
+295,233,1,68722,Ingeniería de Sistemas y Computación,ACTIVE,2009-03-19,2014-04-22
+296,234,1,480848,Ingeniería de Sistemas y Computación,ACTIVE,2008-08-10,2014-06-08
+297,235,1,303844,Ingeniería de Sistemas y Computación,ACTIVE,2011-01-28,2017-05-03
+298,236,1,83336,Ingeniería de Sistemas y Computación,ACTIVE,2014-12-27,2020-11-06
+299,236,1,471537,Ingeniería de Sistemas y Computación,ACTIVE,2021-07-15,2027-03-13
+300,237,1,302853,Ingeniería de Sistemas y Computación,ACTIVE,2017-10-08,2023-08-22
+301,238,1,321057,Ingeniería de Sistemas y Computación,ACTIVE,2022-10-05,2028-07-26
+302,239,1,207081,Ingeniería de Sistemas y Computación,ACTIVE,2011-11-01,2015-12-16
+303,240,1,311343,Ingeniería de Sistemas y Computación,ACTIVE,2014-10-25,2019-12-18
+304,241,1,493978,Ingeniería de Sistemas y Computación,ACTIVE,2023-02-14,2027-07-25
+305,241,1,29963,Ingeniería de Sistemas y Computación,ACTIVE,2008-04-05,2013-03-09
+306,242,1,318688,Ingeniería de Sistemas y Computación,ACTIVE,2018-07-17,2024-11-26
+307,243,1,373221,Ingeniería de Sistemas y Computación,ACTIVE,2009-07-27,2013-07-07
+308,243,1,235508,Ingeniería de Sistemas y Computación,ACTIVE,2018-06-11,2022-05-24
+309,243,1,91578,Ingeniería de Sistemas y Computación,ACTIVE,2016-07-05,2021-12-29
+310,244,1,225744,Ingeniería de Sistemas y Computación,ACTIVE,2014-02-27,2018-03-11
+311,245,1,401056,Ingeniería de Sistemas y Computación,ACTIVE,2016-06-08,2020-01-20
+312,246,1,406790,Ingeniería de Sistemas y Computación,ACTIVE,2008-10-08,2013-12-15
+313,247,2,242959,Ingeniería Electrónica,ACTIVE,2019-12-12,2026-05-11
+314,247,1,132492,Ingeniería de Sistemas y Computación,ACTIVE,2014-06-20,2018-05-13
+315,248,1,78859,Ingeniería de Sistemas y Computación,ACTIVE,2021-10-04,2025-06-03
+316,249,2,454961,Ingeniería Electrónica,ACTIVE,2014-08-02,2021-09-13
+317,250,1,171003,Ingeniería de Sistemas y Computación,ACTIVE,2008-01-28,2013-11-30
+318,251,1,42040,Ingeniería de Sistemas y Computación,ACTIVE,2019-07-08,2025-05-10
+319,251,1,356721,Ingeniería de Sistemas y Computación,ACTIVE,2019-10-11,2026-06-03
+320,251,1,185467,Ingeniería de Sistemas y Computación,INACTIVE,2016-08-11,2020-05-10
+321,252,1,387351,Ingeniería de Sistemas y Computación,ACTIVE,2010-12-01,2016-05-22
+322,252,1,286728,Ingeniería de Sistemas y Computación,ACTIVE,2009-06-15,2015-01-14
+323,252,1,51820,Ingeniería de Sistemas y Computación,ACTIVE,2023-01-08,2028-04-19
+324,253,1,43137,Ingeniería de Sistemas y Computación,ACTIVE,2016-04-22,2021-07-12
+325,254,1,490664,Ingeniería de Sistemas y Computación,ACTIVE,2017-03-26,2023-05-09
+326,255,1,404625,Ingeniería de Sistemas y Computación,ACTIVE,2014-08-19,2020-08-21
+327,256,1,166961,Ingeniería de Sistemas y Computación,ACTIVE,2011-06-19,2018-05-31
+328,256,1,52529,Ingeniería de Sistemas y Computación,ACTIVE,2015-09-21,2021-05-20
+329,257,1,240251,Ingeniería de Sistemas y Computación,ACTIVE,2015-05-07,2019-12-10
+330,258,1,345452,Ingeniería de Sistemas y Computación,ACTIVE,2016-02-06,2020-07-21
+331,259,1,389360,Ingeniería de Sistemas y Computación,ACTIVE,2022-11-29,2026-05-21
+332,260,1,379595,Ingeniería de Sistemas y Computación,ACTIVE,2021-09-02,2028-02-16
+333,261,1,457775,Ingeniería de Sistemas y Computación,ACTIVE,2012-12-21,2017-08-03
+334,262,3,490733,Ingeniería Mecatrónica,ACTIVE,2018-08-11,2025-09-10
+335,263,1,342151,Ingeniería de Sistemas y Computación,ACTIVE,2010-03-02,2016-06-08
+336,263,1,241055,Ingeniería de Sistemas y Computación,ACTIVE,2009-01-29,2016-10-24
+337,263,1,103250,Ingeniería de Sistemas y Computación,ACTIVE,2021-10-23,2027-08-07
+338,264,2,306582,Ingeniería Electrónica,ACTIVE,2019-11-22,2024-03-22
+339,264,3,365918,Ingeniería Mecatrónica,ACTIVE,2015-05-23,2021-02-09
+340,264,1,27202,Ingeniería de Sistemas y Computación,ACTIVE,2020-09-11,2027-01-01
+341,265,2,280290,Ingeniería Electrónica,ACTIVE,2012-12-15,2016-03-12
+342,266,3,192759,Ingeniería Mecatrónica,ACTIVE,2020-12-05,2024-10-05
+343,267,1,164354,Ingeniería de Sistemas y Computación,ACTIVE,2015-06-10,2020-09-16
+344,267,2,123772,Ingeniería Electrónica,ACTIVE,2008-12-23,2012-10-09
+345,268,1,102679,Ingeniería de Sistemas y Computación,ACTIVE,2019-05-13,2024-01-04
+346,269,1,61724,Ingeniería de Sistemas y Computación,ACTIVE,2019-11-24,2026-06-17
+347,270,1,262631,Ingeniería de Sistemas y Computación,ACTIVE,2016-09-30,2020-12-16
+348,271,1,236812,Ingeniería de Sistemas y Computación,ACTIVE,2018-02-12,2024-12-10
+349,272,1,150819,Ingeniería de Sistemas y Computación,ACTIVE,2011-03-26,2017-08-13
+350,273,1,243348,Ingeniería de Sistemas y Computación,ACTIVE,2016-11-02,2021-06-16
+351,274,1,288112,Ingeniería de Sistemas y Computación,ACTIVE,2012-08-05,2017-07-09
+352,275,1,149695,Ingeniería de Sistemas y Computación,ACTIVE,2008-06-07,2015-09-29
+353,275,1,270996,Ingeniería de Sistemas y Computación,ACTIVE,2020-08-15,2024-09-14
+354,276,1,263923,Ingeniería de Sistemas y Computación,ACTIVE,2008-01-13,2013-05-09
+355,277,1,161037,Ingeniería de Sistemas y Computación,ACTIVE,2014-09-25,2018-10-25
+356,278,1,478219,Ingeniería de Sistemas y Computación,ACTIVE,2009-07-09,2015-09-10
+357,278,1,39135,Ingeniería de Sistemas y Computación,ACTIVE,2017-02-07,2023-12-11
+358,279,1,343480,Ingeniería de Sistemas y Computación,ACTIVE,2011-10-27,2015-06-30
+359,280,1,31639,Ingeniería de Sistemas y Computación,ACTIVE,2015-01-16,2019-06-27
+360,281,1,333977,Ingeniería de Sistemas y Computación,ACTIVE,2017-03-25,2021-12-20
+361,282,1,220931,Ingeniería de Sistemas y Computación,ACTIVE,2013-02-08,2019-05-12
+362,282,1,221530,Ingeniería de Sistemas y Computación,ACTIVE,2011-12-15,2017-04-20
+363,283,1,420808,Ingeniería de Sistemas y Computación,ACTIVE,2011-03-05,2017-01-13
+364,284,1,17452,Ingeniería de Sistemas y Computación,ACTIVE,2008-01-17,2014-04-22
+365,285,1,16043,Ingeniería de Sistemas y Computación,ACTIVE,2020-02-06,2024-04-02
+366,286,1,357485,Ingeniería de Sistemas y Computación,ACTIVE,2017-02-04,2022-10-27
+367,287,1,53624,Ingeniería de Sistemas y Computación,ACTIVE,2022-11-09,2027-08-21
+368,288,1,187514,Ingeniería de Sistemas y Computación,ACTIVE,2022-05-27,2027-04-23
+369,288,1,97811,Ingeniería de Sistemas y Computación,ACTIVE,2008-10-04,2015-08-24
+370,289,2,27417,Ingeniería Electrónica,INACTIVE,2019-08-06,2025-08-03
+371,289,1,35309,Ingeniería de Sistemas y Computación,ACTIVE,2019-05-13,2025-05-18
+372,290,1,423076,Ingeniería de Sistemas y Computación,ACTIVE,2018-06-08,2023-10-29
+373,290,1,166123,Ingeniería de Sistemas y Computación,ACTIVE,2017-07-21,2021-07-13
+374,291,2,17002,Ingeniería Electrónica,ACTIVE,2018-06-07,2023-01-13
+375,292,1,295993,Ingeniería de Sistemas y Computación,ACTIVE,2009-09-21,2015-08-27
+376,292,1,444230,Ingeniería de Sistemas y Computación,ACTIVE,2019-09-01,2025-06-04
+377,293,1,78788,Ingeniería de Sistemas y Computación,ACTIVE,2008-05-12,2015-02-26
+378,294,1,427046,Ingeniería de Sistemas y Computación,ACTIVE,2013-12-25,2018-09-23
+379,295,2,35511,Ingeniería Electrónica,ACTIVE,2023-01-06,2030-10-27
+380,296,3,390490,Ingeniería Mecatrónica,ACTIVE,2017-05-03,2024-12-03
+381,297,1,367446,Ingeniería de Sistemas y Computación,ACTIVE,2011-02-05,2016-06-27
+382,298,3,489551,Ingeniería Mecatrónica,ACTIVE,2008-07-13,2014-04-29
+383,298,1,122295,Ingeniería de Sistemas y Computación,ACTIVE,2016-09-20,2022-07-06
+384,299,1,225929,Ingeniería de Sistemas y Computación,ACTIVE,2022-06-17,2027-04-17
+385,299,1,441534,Ingeniería de Sistemas y Computación,ACTIVE,2012-03-13,2019-03-01
+386,300,1,389733,Ingeniería de Sistemas y Computación,ACTIVE,2014-10-18,2019-12-28
+387,301,1,360980,Ingeniería de Sistemas y Computación,ACTIVE,2010-10-11,2016-10-19
+388,302,1,338021,Ingeniería de Sistemas y Computación,ACTIVE,2021-11-21,2027-05-12
+389,303,1,88576,Ingeniería de Sistemas y Computación,ACTIVE,2020-07-28,2024-04-10
+390,304,2,492474,Ingeniería Electrónica,ACTIVE,2019-04-30,2024-07-21
+391,305,2,192969,Ingeniería Electrónica,ACTIVE,2023-01-23,2028-09-30
+392,305,1,269393,Ingeniería de Sistemas y Computación,ACTIVE,2012-07-12,2016-11-08
+393,305,1,308579,Ingeniería de Sistemas y Computación,ACTIVE,2008-10-25,2015-12-23
+394,306,3,267717,Ingeniería Mecatrónica,ACTIVE,2009-09-24,2015-05-18
+395,307,1,422681,Ingeniería de Sistemas y Computación,ACTIVE,2011-10-11,2018-02-06
+396,308,1,84507,Ingeniería de Sistemas y Computación,ACTIVE,2015-06-06,2022-11-07
+397,309,1,443924,Ingeniería de Sistemas y Computación,ACTIVE,2021-03-03,2028-06-01
+398,310,1,392346,Ingeniería de Sistemas y Computación,ACTIVE,2012-02-13,2016-06-22
+399,311,2,278405,Ingeniería Electrónica,ACTIVE,2010-07-23,2016-11-14
+400,312,1,266058,Ingeniería de Sistemas y Computación,ACTIVE,2011-12-10,2018-08-21
+401,313,1,370624,Ingeniería de Sistemas y Computación,ACTIVE,2010-05-30,2017-09-14
+402,314,1,143877,Ingeniería de Sistemas y Computación,ACTIVE,2017-03-29,2024-09-28
+403,315,1,320448,Ingeniería de Sistemas y Computación,ACTIVE,2008-05-04,2014-12-26
+404,316,3,242742,Ingeniería Mecatrónica,ACTIVE,2010-12-18,2015-11-06
+405,317,1,332953,Ingeniería de Sistemas y Computación,ACTIVE,2011-07-10,2018-09-03
+406,317,1,260239,Ingeniería de Sistemas y Computación,ACTIVE,2022-08-03,2026-01-11
+407,318,1,406188,Ingeniería de Sistemas y Computación,ACTIVE,2012-02-15,2019-01-19
+408,319,1,162786,Ingeniería de Sistemas y Computación,ACTIVE,2023-03-10,2029-06-27
+409,319,2,382485,Ingeniería Electrónica,ACTIVE,2013-11-29,2017-04-04
+410,320,1,469142,Ingeniería de Sistemas y Computación,ACTIVE,2012-07-04,2019-03-15
+411,321,1,109316,Ingeniería de Sistemas y Computación,ACTIVE,2008-01-14,2014-03-10
+412,322,1,212620,Ingeniería de Sistemas y Computación,ACTIVE,2021-10-26,2026-03-14
+413,323,1,358695,Ingeniería de Sistemas y Computación,ACTIVE,2018-06-21,2022-09-28
+414,324,1,313805,Ingeniería de Sistemas y Computación,ACTIVE,2008-03-31,2014-07-15
+415,325,1,47227,Ingeniería de Sistemas y Computación,ACTIVE,2012-01-11,2019-11-07
+416,325,1,258389,Ingeniería de Sistemas y Computación,INACTIVE,2019-03-03,2026-10-13
+417,326,1,312019,Ingeniería de Sistemas y Computación,ACTIVE,2017-10-31,2023-06-04
+418,327,1,377123,Ingeniería de Sistemas y Computación,ACTIVE,2020-10-29,2024-12-19
+419,328,1,130021,Ingeniería de Sistemas y Computación,ACTIVE,2011-08-17,2016-10-21
+420,329,1,438201,Ingeniería de Sistemas y Computación,ACTIVE,2014-04-16,2021-04-27
+421,330,1,100578,Ingeniería de Sistemas y Computación,INACTIVE,2022-09-04,2027-04-12
+422,331,1,37448,Ingeniería de Sistemas y Computación,ACTIVE,2015-03-14,2022-10-21
+423,332,1,166580,Ingeniería de Sistemas y Computación,ACTIVE,2013-03-15,2019-04-04
+424,333,1,441386,Ingeniería de Sistemas y Computación,ACTIVE,2020-08-30,2025-10-12
+425,334,1,450678,Ingeniería de Sistemas y Computación,ACTIVE,2012-03-10,2017-07-06
+426,334,1,201059,Ingeniería de Sistemas y Computación,INACTIVE,2018-03-20,
+427,335,2,440869,Ingeniería Electrónica,ACTIVE,2013-10-12,2018-05-26
+428,336,1,351817,Ingeniería de Sistemas y Computación,ACTIVE,2010-12-07,2017-11-01
+429,337,3,58278,Ingeniería Mecatrónica,ACTIVE,2021-06-16,2028-10-04
+430,338,1,409210,Ingeniería de Sistemas y Computación,ACTIVE,2022-03-24,2027-10-20
+431,339,1,26284,Ingeniería de Sistemas y Computación,ACTIVE,2017-02-25,2021-01-10
+432,340,1,227403,Ingeniería de Sistemas y Computación,ACTIVE,2017-12-14,2023-08-10
+433,341,3,343168,Ingeniería Mecatrónica,ACTIVE,2009-01-24,2014-11-06
+434,341,1,449753,Ingeniería de Sistemas y Computación,ACTIVE,2014-06-14,2021-07-06
+435,342,1,268471,Ingeniería de Sistemas y Computación,ACTIVE,2018-06-09,2022-09-08
+436,342,2,188338,Ingeniería Electrónica,ACTIVE,2009-03-22,2016-04-11
+437,343,1,100598,Ingeniería de Sistemas y Computación,INACTIVE,2016-11-03,2021-06-06
+438,344,1,475024,Ingeniería de Sistemas y Computación,ACTIVE,2010-06-12,2017-07-07
+439,345,1,294346,Ingeniería de Sistemas y Computación,ACTIVE,2022-04-09,2029-04-02
+440,346,1,488483,Ingeniería de Sistemas y Computación,ACTIVE,2012-03-04,2016-07-19
+441,346,1,67249,Ingeniería de Sistemas y Computación,INACTIVE,2022-07-06,2029-05-06
+442,347,1,103274,Ingeniería de Sistemas y Computación,ACTIVE,2013-07-18,2017-08-05
+443,348,2,89251,Ingeniería Electrónica,ACTIVE,2009-05-28,2016-12-30
+444,348,1,397383,Ingeniería de Sistemas y Computación,ACTIVE,2014-04-16,2020-04-03
+445,348,1,348308,Ingeniería de Sistemas y Computación,ACTIVE,2016-04-19,2021-06-10
+446,349,1,379361,Ingeniería de Sistemas y Computación,ACTIVE,2008-04-12,2013-10-27
+447,350,1,422537,Ingeniería de Sistemas y Computación,ACTIVE,2013-11-28,2020-02-15
+448,351,1,309197,Ingeniería de Sistemas y Computación,ACTIVE,2018-06-19,2022-03-26
+449,352,1,361466,Ingeniería de Sistemas y Computación,ACTIVE,2009-04-17,2016-06-02
+450,353,3,327627,Ingeniería Mecatrónica,ACTIVE,2011-02-24,2016-03-03
+451,354,1,167346,Ingeniería de Sistemas y Computación,ACTIVE,2009-12-07,2016-08-14
+452,355,3,403342,Ingeniería Mecatrónica,ACTIVE,2021-10-14,2026-03-20
+453,356,1,382990,Ingeniería de Sistemas y Computación,ACTIVE,2008-09-14,2013-12-10
+454,357,1,96255,Ingeniería de Sistemas y Computación,ACTIVE,2021-04-27,2025-05-24
+455,357,1,28903,Ingeniería de Sistemas y Computación,ACTIVE,2020-04-28,2027-03-03
+456,358,2,160546,Ingeniería Electrónica,ACTIVE,2011-08-05,2018-10-16
+457,359,2,284234,Ingeniería Electrónica,ACTIVE,2017-05-15,2021-02-07
+458,360,1,485412,Ingeniería de Sistemas y Computación,ACTIVE,2021-12-25,2027-05-15
+459,361,1,32078,Ingeniería de Sistemas y Computación,ACTIVE,2014-02-05,2020-04-23
+460,361,1,14952,Ingeniería de Sistemas y Computación,ACTIVE,2016-09-05,2022-03-15
+461,362,1,492182,Ingeniería de Sistemas y Computación,ACTIVE,2013-09-10,2018-10-26
+462,363,1,206712,Ingeniería de Sistemas y Computación,ACTIVE,2017-05-27,2022-09-30
+463,364,1,330013,Ingeniería de Sistemas y Computación,ACTIVE,2012-03-30,2018-03-29
+464,365,1,256988,Ingeniería de Sistemas y Computación,ACTIVE,2014-12-30,2019-09-17
+465,366,3,171149,Ingeniería Mecatrónica,ACTIVE,2013-04-26,2019-10-04
+466,367,2,225273,Ingeniería Electrónica,INACTIVE,2009-11-30,2016-12-04
+467,368,1,303889,Ingeniería de Sistemas y Computación,ACTIVE,2013-02-21,2020-03-08
+468,368,1,290076,Ingeniería de Sistemas y Computación,ACTIVE,2016-06-23,2021-10-31
+469,369,1,70360,Ingeniería de Sistemas y Computación,ACTIVE,2023-01-22,2028-05-13
+470,370,1,110530,Ingeniería de Sistemas y Computación,ACTIVE,2023-03-05,2028-03-30
+471,371,1,239187,Ingeniería de Sistemas y Computación,ACTIVE,2014-03-01,2019-06-11
+472,372,1,108127,Ingeniería de Sistemas y Computación,ACTIVE,2011-11-10,2018-08-17
+473,373,1,209591,Ingeniería de Sistemas y Computación,ACTIVE,2009-01-09,2015-01-06
+474,374,1,357043,Ingeniería de Sistemas y Computación,ACTIVE,2011-08-15,2017-11-02
+475,375,1,393279,Ingeniería de Sistemas y Computación,ACTIVE,2020-07-10,2026-07-08
+476,376,1,236414,Ingeniería de Sistemas y Computación,INACTIVE,2021-08-06,2027-12-23
+477,377,1,116521,Ingeniería de Sistemas y Computación,ACTIVE,2021-10-04,2026-11-08
+478,378,1,250929,Ingeniería de Sistemas y Computación,ACTIVE,2022-09-07,2028-07-08
+479,379,1,25026,Ingeniería de Sistemas y Computación,ACTIVE,2011-12-08,2015-01-25
+480,380,1,35626,Ingeniería de Sistemas y Computación,ACTIVE,2014-07-26,2020-05-07
+481,381,1,121509,Ingeniería de Sistemas y Computación,INACTIVE,2020-09-05,2024-12-24
+482,382,3,405800,Ingeniería Mecatrónica,ACTIVE,2019-10-23,2026-03-22
+483,383,2,66808,Ingeniería Electrónica,ACTIVE,2008-02-04,2014-12-28
+484,384,1,53603,Ingeniería de Sistemas y Computación,ACTIVE,2013-01-11,2020-07-17
+485,385,2,166931,Ingeniería Electrónica,ACTIVE,2014-12-16,2019-04-05
+486,386,1,230916,Ingeniería de Sistemas y Computación,ACTIVE,2010-04-02,2017-07-21
+487,386,1,426961,Ingeniería de Sistemas y Computación,ACTIVE,2010-10-23,2015-02-03
+488,387,1,406619,Ingeniería de Sistemas y Computación,INACTIVE,2011-09-25,2016-01-24
+489,388,1,493016,Ingeniería de Sistemas y Computación,ACTIVE,2019-11-26,2024-02-14
+490,388,1,60936,Ingeniería de Sistemas y Computación,ACTIVE,2015-02-07,2020-11-02
+491,389,2,20067,Ingeniería Electrónica,ACTIVE,2018-01-18,2022-09-28
+492,389,1,90438,Ingeniería de Sistemas y Computación,ACTIVE,2015-12-04,2019-03-02
+493,390,3,117433,Ingeniería Mecatrónica,INACTIVE,2022-05-09,2028-04-23
+494,390,2,170794,Ingeniería Electrónica,ACTIVE,2015-04-26,2020-10-25
+495,391,1,335428,Ingeniería de Sistemas y Computación,ACTIVE,2013-11-12,2018-06-21
+496,392,1,87885,Ingeniería de Sistemas y Computación,ACTIVE,2008-06-03,2013-07-01
+497,393,1,35625,Ingeniería de Sistemas y Computación,INACTIVE,2018-01-24,2025-01-25
+498,394,1,103306,Ingeniería de Sistemas y Computación,ACTIVE,2016-04-28,2022-05-04
+499,395,1,268270,Ingeniería de Sistemas y Computación,ACTIVE,2014-01-01,2020-01-12
+500,396,1,499847,Ingeniería de Sistemas y Computación,ACTIVE,2012-06-08,2019-01-10
+501,396,1,141163,Ingeniería de Sistemas y Computación,ACTIVE,2021-09-04,2028-06-08
+502,397,1,282180,Ingeniería de Sistemas y Computación,ACTIVE,2015-11-14,2020-03-31
+503,397,1,359686,Ingeniería de Sistemas y Computación,INACTIVE,2011-06-08,2017-12-16
+504,398,1,107081,Ingeniería de Sistemas y Computación,ACTIVE,2012-07-09,2016-06-04
+505,399,1,76377,Ingeniería de Sistemas y Computación,ACTIVE,2022-03-21,2029-07-15
+506,400,1,488864,Ingeniería de Sistemas y Computación,ACTIVE,2017-03-15,2024-10-20
+507,401,1,79079,Ingeniería de Sistemas y Computación,ACTIVE,2015-04-13,2020-06-20
+508,401,1,232293,Ingeniería de Sistemas y Computación,ACTIVE,2014-05-19,2018-01-22
+509,402,1,365320,Ingeniería de Sistemas y Computación,ACTIVE,2018-11-15,2025-07-20
+510,403,1,296006,Ingeniería de Sistemas y Computación,ACTIVE,2010-10-11,2015-02-10
+511,404,1,175886,Ingeniería de Sistemas y Computación,ACTIVE,2019-08-02,2024-02-15
+512,405,1,444498,Ingeniería de Sistemas y Computación,ACTIVE,2021-06-13,2026-02-24
+513,406,1,85979,Ingeniería de Sistemas y Computación,ACTIVE,2019-03-17,2026-02-13
+514,407,1,375267,Ingeniería de Sistemas y Computación,ACTIVE,2013-12-30,2019-02-03
+515,407,1,362241,Ingeniería de Sistemas y Computación,ACTIVE,2009-11-22,2013-09-22
+516,408,1,286674,Ingeniería de Sistemas y Computación,ACTIVE,2015-10-06,2020-04-17
+517,409,1,333500,Ingeniería de Sistemas y Computación,ACTIVE,2008-10-11,2015-11-09
+518,410,1,164271,Ingeniería de Sistemas y Computación,ACTIVE,2019-07-07,2024-10-30
+519,410,1,193979,Ingeniería de Sistemas y Computación,ACTIVE,2016-12-02,2020-11-27
+520,411,1,442124,Ingeniería de Sistemas y Computación,ACTIVE,2011-05-24,2015-12-26
+521,412,1,376733,Ingeniería de Sistemas y Computación,INACTIVE,2020-05-28,
+522,413,2,189948,Ingeniería Electrónica,ACTIVE,2008-05-23,2015-08-22
+523,413,2,492664,Ingeniería Electrónica,ACTIVE,2017-03-15,2024-10-26
+524,414,1,153486,Ingeniería de Sistemas y Computación,ACTIVE,2022-03-17,2028-02-12
+525,414,1,202608,Ingeniería de Sistemas y Computación,ACTIVE,2018-06-19,2022-08-15
+526,414,1,409552,Ingeniería de Sistemas y Computación,ACTIVE,2022-06-20,2029-04-27
+527,415,1,382776,Ingeniería de Sistemas y Computación,ACTIVE,2011-05-19,2018-01-07
+528,416,1,433969,Ingeniería de Sistemas y Computación,ACTIVE,2011-09-22,2018-04-06
+529,417,1,301364,Ingeniería de Sistemas y Computación,ACTIVE,2018-01-08,2023-05-01
+530,418,1,455044,Ingeniería de Sistemas y Computación,ACTIVE,2022-03-28,2026-03-29
+531,419,1,359489,Ingeniería de Sistemas y Computación,ACTIVE,2011-10-27,2017-05-12
+532,420,1,295704,Ingeniería de Sistemas y Computación,ACTIVE,2023-01-26,2029-11-29
+533,421,1,240064,Ingeniería de Sistemas y Computación,ACTIVE,2022-07-02,2027-04-03
+534,422,1,217093,Ingeniería de Sistemas y Computación,ACTIVE,2011-08-19,2017-05-27
+535,422,1,284667,Ingeniería de Sistemas y Computación,ACTIVE,2012-08-11,2018-11-12
+536,423,1,85173,Ingeniería de Sistemas y Computación,ACTIVE,2016-03-31,2020-02-21
+537,424,1,242907,Ingeniería de Sistemas y Computación,ACTIVE,2017-10-25,2024-10-23
+538,425,1,309535,Ingeniería de Sistemas y Computación,ACTIVE,2016-02-26,2020-05-28
+539,426,1,270819,Ingeniería de Sistemas y Computación,ACTIVE,2008-04-07,2014-06-16
+540,427,1,16453,Ingeniería de Sistemas y Computación,ACTIVE,2017-01-26,2023-08-03
+541,427,1,81581,Ingeniería de Sistemas y Computación,ACTIVE,2011-09-28,2016-03-25
+542,427,1,420574,Ingeniería de Sistemas y Computación,ACTIVE,2010-05-11,2016-01-04
+543,428,1,13277,Ingeniería de Sistemas y Computación,ACTIVE,2010-10-16,2014-10-14
+544,429,1,130998,Ingeniería de Sistemas y Computación,ACTIVE,2019-01-28,2024-06-02
+545,430,1,403985,Ingeniería de Sistemas y Computación,ACTIVE,2019-03-25,2023-02-13
+546,431,1,127157,Ingeniería de Sistemas y Computación,ACTIVE,2015-05-02,2022-09-12
+547,432,1,265511,Ingeniería de Sistemas y Computación,ACTIVE,2019-11-09,2023-08-24
+548,433,1,233230,Ingeniería de Sistemas y Computación,ACTIVE,2016-03-12,2022-10-06
+549,434,1,378274,Ingeniería de Sistemas y Computación,ACTIVE,2015-09-10,2022-08-01
+550,434,1,21921,Ingeniería de Sistemas y Computación,ACTIVE,2009-04-01,2015-12-02
+551,435,1,149552,Ingeniería de Sistemas y Computación,INACTIVE,2008-05-15,2014-02-25
+552,436,1,351343,Ingeniería de Sistemas y Computación,ACTIVE,2009-05-21,2015-03-19
+553,437,1,435280,Ingeniería de Sistemas y Computación,ACTIVE,2016-09-29,2020-04-11
+554,437,1,98572,Ingeniería de Sistemas y Computación,ACTIVE,2013-08-21,2018-10-27
+555,438,1,333477,Ingeniería de Sistemas y Computación,ACTIVE,2018-02-20,2024-07-05
+556,439,1,171595,Ingeniería de Sistemas y Computación,ACTIVE,2009-09-18,2014-07-01
+557,440,1,437073,Ingeniería de Sistemas y Computación,ACTIVE,2017-08-02,2024-10-07
+558,441,1,430973,Ingeniería de Sistemas y Computación,ACTIVE,2014-05-17,2018-12-08
+559,442,1,192667,Ingeniería de Sistemas y Computación,ACTIVE,2020-01-26,2026-05-02
+560,442,1,439328,Ingeniería de Sistemas y Computación,ACTIVE,2019-06-02,2025-06-18
+561,443,1,235646,Ingeniería de Sistemas y Computación,INACTIVE,2012-11-25,2018-11-28
+562,444,1,494936,Ingeniería de Sistemas y Computación,ACTIVE,2012-01-23,2016-02-29
+563,444,3,491463,Ingeniería Mecatrónica,ACTIVE,2020-10-28,2027-10-23
+564,445,1,70827,Ingeniería de Sistemas y Computación,ACTIVE,2012-01-16,2018-01-08
+565,445,1,115455,Ingeniería de Sistemas y Computación,ACTIVE,2021-11-26,2026-01-10
+566,445,1,38309,Ingeniería de Sistemas y Computación,ACTIVE,2008-02-16,2012-08-23
+567,446,1,204688,Ingeniería de Sistemas y Computación,ACTIVE,2016-11-04,2022-06-22
+568,447,1,310916,Ingeniería de Sistemas y Computación,ACTIVE,2016-06-01,2020-01-27
+569,448,1,227483,Ingeniería de Sistemas y Computación,ACTIVE,2022-06-16,2029-12-30
+570,448,1,52421,Ingeniería de Sistemas y Computación,ACTIVE,2010-07-13,2014-11-18
+571,449,1,172152,Ingeniería de Sistemas y Computación,ACTIVE,2011-11-10,2016-11-20
+572,450,1,86724,Ingeniería de Sistemas y Computación,ACTIVE,2022-12-25,2026-03-29
+573,451,3,425775,Ingeniería Mecatrónica,ACTIVE,2011-05-04,2017-03-11
+574,452,1,126998,Ingeniería de Sistemas y Computación,ACTIVE,2013-04-08,2018-01-23
+575,453,1,106602,Ingeniería de Sistemas y Computación,ACTIVE,2014-09-23,2021-05-03
+576,454,2,94782,Ingeniería Electrónica,ACTIVE,2018-07-15,2024-03-15
+577,455,1,18007,Ingeniería de Sistemas y Computación,INACTIVE,2023-03-11,2028-08-24
+578,456,1,186056,Ingeniería de Sistemas y Computación,ACTIVE,2015-01-13,2021-07-09
+579,456,1,348309,Ingeniería de Sistemas y Computación,ACTIVE,2018-08-21,2023-02-14
+580,456,1,243180,Ingeniería de Sistemas y Computación,ACTIVE,2018-10-23,2022-01-12
+581,457,1,313832,Ingeniería de Sistemas y Computación,ACTIVE,2009-09-08,2016-01-19
+582,458,1,30812,Ingeniería de Sistemas y Computación,ACTIVE,2008-04-27,2014-12-10
+583,459,1,423647,Ingeniería de Sistemas y Computación,ACTIVE,2014-12-02,2019-07-04
+584,460,1,442284,Ingeniería de Sistemas y Computación,ACTIVE,2017-03-16,2021-05-22
+585,461,1,240835,Ingeniería de Sistemas y Computación,ACTIVE,2017-03-06,2023-08-04
+586,462,2,89687,Ingeniería Electrónica,ACTIVE,2010-03-12,2017-11-30
+587,463,1,489409,Ingeniería de Sistemas y Computación,INACTIVE,2014-11-22,
+588,464,2,16057,Ingeniería Electrónica,ACTIVE,2022-12-17,2026-01-25
+589,465,1,425246,Ingeniería de Sistemas y Computación,INACTIVE,2012-07-03,2017-06-09
+590,466,1,453912,Ingeniería de Sistemas y Computación,ACTIVE,2018-12-15,2023-04-12
+591,467,1,409673,Ingeniería de Sistemas y Computación,ACTIVE,2020-03-17,2027-05-12
+592,468,1,464596,Ingeniería de Sistemas y Computación,ACTIVE,2010-06-10,2015-01-22
+593,469,1,212109,Ingeniería de Sistemas y Computación,ACTIVE,2021-02-16,2026-05-22
+594,469,1,201040,Ingeniería de Sistemas y Computación,INACTIVE,2009-12-22,2015-12-06
+595,470,1,366412,Ingeniería de Sistemas y Computación,ACTIVE,2019-02-16,2024-11-05
+596,471,1,497031,Ingeniería de Sistemas y Computación,ACTIVE,2021-07-25,2026-09-28
+597,472,1,124337,Ingeniería de Sistemas y Computación,ACTIVE,2008-03-08,2013-01-10
+598,472,1,366744,Ingeniería de Sistemas y Computación,INACTIVE,2021-03-26,2025-08-03
+599,473,1,275626,Ingeniería de Sistemas y Computación,ACTIVE,2011-12-19,2018-08-26
+600,474,1,498047,Ingeniería de Sistemas y Computación,ACTIVE,2008-03-28,2014-03-13
+601,475,1,481226,Ingeniería de Sistemas y Computación,ACTIVE,2019-07-06,2026-01-09
+602,476,1,430518,Ingeniería de Sistemas y Computación,ACTIVE,2018-05-20,2025-10-09
+603,477,1,401808,Ingeniería de Sistemas y Computación,ACTIVE,2009-08-12,2015-02-10
+604,478,1,415572,Ingeniería de Sistemas y Computación,ACTIVE,2021-11-04,2027-01-02
+605,479,3,268644,Ingeniería Mecatrónica,ACTIVE,2021-05-28,2026-03-31
+606,480,1,466973,Ingeniería de Sistemas y Computación,ACTIVE,2018-11-10,2024-03-17
+607,481,2,183171,Ingeniería Electrónica,ACTIVE,2018-06-03,2022-05-22
+608,482,1,430755,Ingeniería de Sistemas y Computación,ACTIVE,2019-04-04,2024-04-28
+609,483,1,492213,Ingeniería de Sistemas y Computación,ACTIVE,2019-01-25,2024-10-24
+610,484,1,233937,Ingeniería de Sistemas y Computación,ACTIVE,2016-05-13,2021-04-10
+611,485,1,118065,Ingeniería de Sistemas y Computación,ACTIVE,2016-06-16,2022-08-29
+612,486,3,182475,Ingeniería Mecatrónica,ACTIVE,2017-05-16,2023-02-12
+613,486,1,264334,Ingeniería de Sistemas y Computación,ACTIVE,2011-11-15,2018-04-09
+614,487,1,44589,Ingeniería de Sistemas y Computación,ACTIVE,2010-01-22,2015-09-14
+615,488,1,440666,Ingeniería de Sistemas y Computación,ACTIVE,2020-01-08,2025-07-14
+616,489,1,73100,Ingeniería de Sistemas y Computación,ACTIVE,2022-04-29,2028-09-14
+617,490,1,468778,Ingeniería de Sistemas y Computación,ACTIVE,2008-03-09,2012-04-01
+618,491,1,260777,Ingeniería de Sistemas y Computación,ACTIVE,2013-04-08,2017-01-11
+619,492,1,96473,Ingeniería de Sistemas y Computación,ACTIVE,2009-12-10,2013-02-09
+620,493,1,454468,Ingeniería de Sistemas y Computación,ACTIVE,2013-11-17,2018-06-20
+621,493,1,259797,Ingeniería de Sistemas y Computación,ACTIVE,2011-11-02,2015-11-07
+622,493,1,475437,Ingeniería de Sistemas y Computación,ACTIVE,2008-10-26,2012-11-17
+623,494,1,13151,Ingeniería de Sistemas y Computación,ACTIVE,2019-07-27,2023-10-19
+624,495,1,164856,Ingeniería de Sistemas y Computación,ACTIVE,2008-07-11,2012-12-03
+625,496,3,30425,Ingeniería Mecatrónica,ACTIVE,2019-06-01,2023-02-25
+626,497,1,43206,Ingeniería de Sistemas y Computación,INACTIVE,2008-10-20,2015-08-07
+627,498,1,261488,Ingeniería de Sistemas y Computación,ACTIVE,2008-04-14,2013-05-13
+628,499,1,291658,Ingeniería de Sistemas y Computación,ACTIVE,2012-04-24,2016-06-21
+629,500,1,121189,Ingeniería de Sistemas y Computación,INACTIVE,2011-08-12,2018-01-25
+630,501,1,198648,Ingeniería de Sistemas y Computación,ACTIVE,2014-07-31,2019-02-22
+631,502,2,435804,Ingeniería Electrónica,ACTIVE,2011-08-26,2017-11-20
+632,503,2,170458,Ingeniería Electrónica,ACTIVE,2020-07-11,2026-10-19
+633,504,1,490317,Ingeniería de Sistemas y Computación,ACTIVE,2021-05-14,2028-09-07
+634,505,1,397458,Ingeniería de Sistemas y Computación,ACTIVE,2017-01-08,2024-11-04
+635,506,1,67051,Ingeniería de Sistemas y Computación,ACTIVE,2022-03-03,2028-06-29
+636,507,3,402718,Ingeniería Mecatrónica,ACTIVE,2012-06-25,2019-06-07
+637,508,1,95447,Ingeniería de Sistemas y Computación,ACTIVE,2018-09-17,2024-04-15
+638,509,1,61012,Ingeniería de Sistemas y Computación,INACTIVE,2020-07-20,2027-07-31
+639,509,1,138794,Ingeniería de Sistemas y Computación,INACTIVE,2023-01-30,2028-02-28
+640,510,2,228283,Ingeniería Electrónica,ACTIVE,2021-11-25,2028-08-09
+641,511,1,79903,Ingeniería de Sistemas y Computación,INACTIVE,2021-02-25,2026-12-25
+642,512,1,198028,Ingeniería de Sistemas y Computación,ACTIVE,2020-08-18,2025-02-27
+643,513,1,138102,Ingeniería de Sistemas y Computación,INACTIVE,2014-11-05,2018-11-28
+644,514,1,80334,Ingeniería de Sistemas y Computación,ACTIVE,2010-03-11,2015-05-03
+645,515,1,496430,Ingeniería de Sistemas y Computación,ACTIVE,2020-05-06,2026-11-30
+646,516,1,71604,Ingeniería de Sistemas y Computación,ACTIVE,2014-07-16,2020-03-10
+647,517,2,391936,Ingeniería Electrónica,ACTIVE,2009-01-10,2016-01-07
+648,518,1,139845,Ingeniería de Sistemas y Computación,ACTIVE,2022-10-27,2026-07-30
+649,519,1,447288,Ingeniería de Sistemas y Computación,ACTIVE,2012-05-14,2017-11-02
+650,520,1,275470,Ingeniería de Sistemas y Computación,ACTIVE,2016-08-05,2023-02-26
+651,521,2,90649,Ingeniería Electrónica,ACTIVE,2021-12-14,2026-07-24
+652,522,1,196917,Ingeniería de Sistemas y Computación,ACTIVE,2021-01-03,2026-03-20
+653,523,1,115165,Ingeniería de Sistemas y Computación,ACTIVE,2011-07-15,2015-12-25
+654,524,1,296604,Ingeniería de Sistemas y Computación,ACTIVE,2018-01-06,2023-07-07
+655,524,1,345832,Ingeniería de Sistemas y Computación,INACTIVE,2021-05-12,2028-09-22
+656,525,1,147190,Ingeniería de Sistemas y Computación,ACTIVE,2016-09-24,2020-10-31
+657,526,1,465991,Ingeniería de Sistemas y Computación,ACTIVE,2014-01-02,2018-08-12
+658,527,2,166435,Ingeniería Electrónica,ACTIVE,2018-08-10,2022-02-03
+659,527,2,46342,Ingeniería Electrónica,ACTIVE,2021-01-07,2025-08-10
+660,528,1,151636,Ingeniería de Sistemas y Computación,ACTIVE,2013-05-21,2020-02-23
+661,528,1,115450,Ingeniería de Sistemas y Computación,ACTIVE,2019-01-13,2025-06-22
+662,529,1,101601,Ingeniería de Sistemas y Computación,ACTIVE,2013-12-22,2020-02-11
+663,529,1,224593,Ingeniería de Sistemas y Computación,ACTIVE,2019-12-22,2026-06-30
+664,530,1,147746,Ingeniería de Sistemas y Computación,ACTIVE,2018-06-21,2024-06-18
+665,531,1,120578,Ingeniería de Sistemas y Computación,ACTIVE,2016-10-29,2022-07-20
+666,532,1,154714,Ingeniería de Sistemas y Computación,ACTIVE,2019-05-10,2024-06-20
+667,533,2,421127,Ingeniería Electrónica,ACTIVE,2021-03-18,2025-07-18
+668,534,1,31795,Ingeniería de Sistemas y Computación,ACTIVE,2014-04-23,2018-07-14
+669,534,2,213795,Ingeniería Electrónica,ACTIVE,2010-02-20,2016-10-14
+670,535,2,86301,Ingeniería Electrónica,ACTIVE,2010-01-23,2016-01-30
+671,536,1,111446,Ingeniería de Sistemas y Computación,INACTIVE,2016-11-06,2022-12-23
+672,536,1,392804,Ingeniería de Sistemas y Computación,ACTIVE,2009-07-05,2013-03-22
+673,537,1,80027,Ingeniería de Sistemas y Computación,ACTIVE,2018-04-21,2025-11-12
+674,538,1,275743,Ingeniería de Sistemas y Computación,ACTIVE,2013-02-17,2020-07-14
+675,539,1,469222,Ingeniería de Sistemas y Computación,ACTIVE,2018-12-22,2025-08-06
+676,540,2,201618,Ingeniería Electrónica,ACTIVE,2018-11-27,2022-05-09
+677,541,2,82851,Ingeniería Electrónica,ACTIVE,2018-07-21,2024-06-29
+678,542,1,324843,Ingeniería de Sistemas y Computación,INACTIVE,2019-12-08,2025-09-15
+679,542,3,69767,Ingeniería Mecatrónica,ACTIVE,2023-02-06,2028-03-29
+680,543,1,459753,Ingeniería de Sistemas y Computación,ACTIVE,2019-08-12,2023-09-27
+681,544,1,135833,Ingeniería de Sistemas y Computación,ACTIVE,2021-06-10,2027-05-29
+682,545,1,20824,Ingeniería de Sistemas y Computación,ACTIVE,2010-05-27,2014-06-12
+683,546,3,132308,Ingeniería Mecatrónica,INACTIVE,2012-03-05,2017-09-05
+684,547,1,263038,Ingeniería de Sistemas y Computación,ACTIVE,2018-12-04,2025-11-21
+685,548,1,415915,Ingeniería de Sistemas y Computación,ACTIVE,2011-07-20,2016-07-11
+686,549,1,442790,Ingeniería de Sistemas y Computación,ACTIVE,2021-06-06,2026-12-25
+687,550,1,353032,Ingeniería de Sistemas y Computación,ACTIVE,2022-02-26,2026-11-13
+688,551,1,261680,Ingeniería de Sistemas y Computación,ACTIVE,2021-05-08,2028-05-09
+689,552,1,266963,Ingeniería de Sistemas y Computación,ACTIVE,2020-09-22,2027-02-19
+690,553,1,86846,Ingeniería de Sistemas y Computación,ACTIVE,2014-02-25,2018-10-29
+691,554,1,107859,Ingeniería de Sistemas y Computación,ACTIVE,2016-01-23,2021-05-27
+692,555,1,296577,Ingeniería de Sistemas y Computación,ACTIVE,2008-05-09,2015-01-31
+693,556,1,294087,Ingeniería de Sistemas y Computación,ACTIVE,2010-10-01,2017-07-10
+694,556,1,159869,Ingeniería de Sistemas y Computación,ACTIVE,2009-01-23,2013-06-06
+695,557,1,190380,Ingeniería de Sistemas y Computación,ACTIVE,2010-02-05,2017-05-06
+696,558,1,430343,Ingeniería de Sistemas y Computación,ACTIVE,2011-05-28,2018-02-08
+697,559,1,59366,Ingeniería de Sistemas y Computación,ACTIVE,2008-06-02,2015-10-31
+698,560,1,258706,Ingeniería de Sistemas y Computación,ACTIVE,2019-01-01,2025-09-24
+699,561,3,63275,Ingeniería Mecatrónica,ACTIVE,2010-07-26,2017-09-29
+700,562,1,40490,Ingeniería de Sistemas y Computación,ACTIVE,2016-05-16,2021-11-03
+701,562,2,25931,Ingeniería Electrónica,INACTIVE,2013-12-26,2019-09-23
+702,563,1,228054,Ingeniería de Sistemas y Computación,ACTIVE,2019-05-14,2024-01-18
+703,564,1,251512,Ingeniería de Sistemas y Computación,ACTIVE,2011-01-28,2016-03-28
+704,565,1,82542,Ingeniería de Sistemas y Computación,ACTIVE,2018-07-28,2025-04-18
+705,565,1,24519,Ingeniería de Sistemas y Computación,ACTIVE,2016-03-31,2021-01-20
+706,566,2,480137,Ingeniería Electrónica,ACTIVE,2013-05-08,2020-03-31
+707,567,1,333529,Ingeniería de Sistemas y Computación,ACTIVE,2016-05-25,2020-12-28
+708,568,1,123595,Ingeniería de Sistemas y Computación,ACTIVE,2009-01-02,2015-08-03
+709,569,1,44189,Ingeniería de Sistemas y Computación,ACTIVE,2017-06-18,2023-05-22
+710,570,1,499173,Ingeniería de Sistemas y Computación,ACTIVE,2009-10-22,2016-03-01
+711,571,1,113442,Ingeniería de Sistemas y Computación,ACTIVE,2014-03-11,2021-06-30
+712,572,1,70389,Ingeniería de Sistemas y Computación,ACTIVE,2022-06-14,2028-07-12
+713,572,1,448253,Ingeniería de Sistemas y Computación,INACTIVE,2009-08-09,2014-07-16
+714,573,1,44809,Ingeniería de Sistemas y Computación,ACTIVE,2010-01-07,2014-04-21
+715,574,1,487987,Ingeniería de Sistemas y Computación,ACTIVE,2011-12-10,2018-06-11
+716,575,1,111610,Ingeniería de Sistemas y Computación,ACTIVE,2015-08-03,2019-07-03
+717,575,1,373861,Ingeniería de Sistemas y Computación,ACTIVE,2011-04-07,2018-07-07
+718,576,1,88132,Ingeniería de Sistemas y Computación,ACTIVE,2019-10-19,2023-03-02
+719,577,1,165607,Ingeniería de Sistemas y Computación,ACTIVE,2009-03-26,2014-07-27
+720,578,1,342253,Ingeniería de Sistemas y Computación,ACTIVE,2013-04-30,2019-10-26
+721,579,1,394140,Ingeniería de Sistemas y Computación,INACTIVE,2020-02-24,2027-12-21
+722,580,2,15858,Ingeniería Electrónica,ACTIVE,2008-09-02,2012-06-21
+723,580,1,384235,Ingeniería de Sistemas y Computación,ACTIVE,2008-11-10,2012-08-11
+724,581,1,401361,Ingeniería de Sistemas y Computación,ACTIVE,2017-12-24,2021-01-20
+725,581,1,30445,Ingeniería de Sistemas y Computación,ACTIVE,2013-08-15,2019-06-25
+726,582,1,289089,Ingeniería de Sistemas y Computación,ACTIVE,2012-12-03,2016-12-29
+727,583,2,22895,Ingeniería Electrónica,ACTIVE,2022-04-13,2026-10-10
+728,584,1,285442,Ingeniería de Sistemas y Computación,ACTIVE,2011-08-04,2018-11-12
+729,584,1,372693,Ingeniería de Sistemas y Computación,ACTIVE,2010-04-23,2015-09-22
+730,585,1,170108,Ingeniería de Sistemas y Computación,ACTIVE,2022-12-02,2029-10-20
+731,585,1,63091,Ingeniería de Sistemas y Computación,ACTIVE,2019-03-19,2023-12-15
+732,586,1,313760,Ingeniería de Sistemas y Computación,INACTIVE,2019-04-10,2026-09-26
+733,587,1,200545,Ingeniería de Sistemas y Computación,ACTIVE,2015-03-25,2021-01-27
+734,587,1,242362,Ingeniería de Sistemas y Computación,ACTIVE,2009-08-05,2014-11-03
+735,588,3,496451,Ingeniería Mecatrónica,ACTIVE,2016-03-27,2022-11-11
+736,589,1,259294,Ingeniería de Sistemas y Computación,ACTIVE,2012-09-08,2018-09-13
+737,590,1,423168,Ingeniería de Sistemas y Computación,ACTIVE,2016-02-19,2023-12-30
+738,591,1,148426,Ingeniería de Sistemas y Computación,ACTIVE,2020-04-14,2024-01-30
+739,592,1,123139,Ingeniería de Sistemas y Computación,ACTIVE,2009-08-02,2013-09-30
+740,593,2,340961,Ingeniería Electrónica,INACTIVE,2013-09-12,2018-01-20
+741,594,2,302036,Ingeniería Electrónica,INACTIVE,2020-04-16,2025-08-04
+742,594,1,201074,Ingeniería de Sistemas y Computación,ACTIVE,2011-03-18,2016-06-19
+743,594,1,401748,Ingeniería de Sistemas y Computación,ACTIVE,2009-01-25,2016-06-21
+744,595,1,207199,Ingeniería de Sistemas y Computación,ACTIVE,2014-03-20,2019-05-22
+745,596,1,279266,Ingeniería de Sistemas y Computación,ACTIVE,2008-05-17,2014-01-19
+746,597,1,493591,Ingeniería de Sistemas y Computación,ACTIVE,2012-06-06,2018-09-29
+747,598,1,314441,Ingeniería de Sistemas y Computación,ACTIVE,2017-07-25,2023-08-03
+748,599,1,182837,Ingeniería de Sistemas y Computación,ACTIVE,2023-01-27,2027-09-02
+749,599,1,54128,Ingeniería de Sistemas y Computación,ACTIVE,2020-02-22,2024-03-29
+750,599,1,254603,Ingeniería de Sistemas y Computación,ACTIVE,2018-09-28,2023-06-05
+751,600,1,490567,Ingeniería de Sistemas y Computación,ACTIVE,2009-04-18,2014-11-18
+752,601,1,479227,Ingeniería de Sistemas y Computación,ACTIVE,2016-02-11,2022-02-08
+753,602,1,218021,Ingeniería de Sistemas y Computación,ACTIVE,2018-08-18,2025-11-18
+754,603,1,494717,Ingeniería de Sistemas y Computación,ACTIVE,2017-11-01,2022-02-21
+755,603,1,190497,Ingeniería de Sistemas y Computación,ACTIVE,2017-04-14,2021-09-25
+756,604,1,321725,Ingeniería de Sistemas y Computación,ACTIVE,2008-04-15,2013-05-26
+757,605,1,427832,Ingeniería de Sistemas y Computación,ACTIVE,2009-04-20,2014-11-04
+758,606,1,47827,Ingeniería de Sistemas y Computación,ACTIVE,2019-02-18,2025-05-30
+759,607,1,485734,Ingeniería de Sistemas y Computación,ACTIVE,2017-11-13,2023-04-09
+760,608,1,352075,Ingeniería de Sistemas y Computación,ACTIVE,2019-09-09,2024-08-15
+761,608,1,246363,Ingeniería de Sistemas y Computación,ACTIVE,2015-05-16,2021-05-25
+762,609,1,237228,Ingeniería de Sistemas y Computación,ACTIVE,2012-06-22,2016-09-25
+763,610,1,198703,Ingeniería de Sistemas y Computación,ACTIVE,2017-10-03,2023-02-23
+764,610,1,362160,Ingeniería de Sistemas y Computación,ACTIVE,2022-11-28,2029-12-14
+765,611,1,54913,Ingeniería de Sistemas y Computación,INACTIVE,2017-03-17,2023-11-06
+766,612,1,237633,Ingeniería de Sistemas y Computación,ACTIVE,2016-09-06,2021-10-03
+767,613,1,89195,Ingeniería de Sistemas y Computación,INACTIVE,2019-01-02,2024-06-11
+768,614,1,168704,Ingeniería de Sistemas y Computación,ACTIVE,2016-11-03,2021-10-18
+769,615,1,309579,Ingeniería de Sistemas y Computación,ACTIVE,2009-08-15,2014-11-22
+770,616,1,453882,Ingeniería de Sistemas y Computación,ACTIVE,2018-07-21,2025-10-13
+771,617,3,476334,Ingeniería Mecatrónica,ACTIVE,2014-11-21,2018-05-11
+772,618,1,208841,Ingeniería de Sistemas y Computación,ACTIVE,2016-03-19,2020-05-25
+773,618,1,352852,Ingeniería de Sistemas y Computación,ACTIVE,2016-09-30,2021-12-31
+774,619,1,407262,Ingeniería de Sistemas y Computación,INACTIVE,2011-05-04,
+775,620,1,19254,Ingeniería de Sistemas y Computación,ACTIVE,2020-04-22,2025-01-19
+776,621,1,402759,Ingeniería de Sistemas y Computación,ACTIVE,2016-07-25,2022-11-22
+777,622,1,417932,Ingeniería de Sistemas y Computación,ACTIVE,2011-08-21,2017-05-27
+778,623,1,208515,Ingeniería de Sistemas y Computación,ACTIVE,2021-08-19,2025-03-02
+779,624,1,144535,Ingeniería de Sistemas y Computación,ACTIVE,2012-11-03,2017-10-28
+780,625,1,112454,Ingeniería de Sistemas y Computación,ACTIVE,2009-10-29,2014-07-22
+781,626,1,97470,Ingeniería de Sistemas y Computación,ACTIVE,2010-11-30,2017-10-23
+782,626,1,31352,Ingeniería de Sistemas y Computación,ACTIVE,2016-04-09,2023-10-24
+783,626,1,218759,Ingeniería de Sistemas y Computación,ACTIVE,2021-12-08,2025-06-27
+784,627,1,144170,Ingeniería de Sistemas y Computación,INACTIVE,2019-01-09,2023-04-01
+785,628,2,182875,Ingeniería Electrónica,ACTIVE,2019-11-15,2026-12-21
+786,629,2,60085,Ingeniería Electrónica,ACTIVE,2023-02-06,2030-11-09
+787,629,1,355266,Ingeniería de Sistemas y Computación,ACTIVE,2022-01-08,2027-03-26
+788,629,1,472368,Ingeniería de Sistemas y Computación,ACTIVE,2015-02-16,2021-01-02
+789,630,1,493600,Ingeniería de Sistemas y Computación,ACTIVE,2019-04-28,2025-06-10
+790,631,1,101927,Ingeniería de Sistemas y Computación,ACTIVE,2013-01-13,2019-11-20
+791,631,1,50236,Ingeniería de Sistemas y Computación,ACTIVE,2017-09-01,2021-11-09
+792,632,1,330396,Ingeniería de Sistemas y Computación,ACTIVE,2010-09-26,2015-09-24
+793,632,1,497975,Ingeniería de Sistemas y Computación,INACTIVE,2014-01-20,2018-03-21
+794,633,1,335182,Ingeniería de Sistemas y Computación,ACTIVE,2008-09-26,2013-07-25
+795,634,1,104105,Ingeniería de Sistemas y Computación,ACTIVE,2012-04-26,2017-07-27
+796,635,1,408707,Ingeniería de Sistemas y Computación,ACTIVE,2014-08-28,2020-04-28
+797,636,1,271382,Ingeniería de Sistemas y Computación,ACTIVE,2020-07-03,2027-05-25
+798,637,1,264633,Ingeniería de Sistemas y Computación,ACTIVE,2023-01-15,2027-06-21
+799,638,1,94686,Ingeniería de Sistemas y Computación,ACTIVE,2014-11-04,2020-08-23
+800,639,1,398827,Ingeniería de Sistemas y Computación,INACTIVE,2022-03-09,2028-10-15
+801,640,1,15764,Ingeniería de Sistemas y Computación,ACTIVE,2009-03-02,2013-09-12
+802,641,1,165101,Ingeniería de Sistemas y Computación,ACTIVE,2018-11-20,2022-05-25
+803,642,1,311330,Ingeniería de Sistemas y Computación,ACTIVE,2017-01-27,2023-07-27
+804,643,1,195636,Ingeniería de Sistemas y Computación,ACTIVE,2021-03-11,2026-01-17
+805,644,1,479233,Ingeniería de Sistemas y Computación,ACTIVE,2011-10-29,2018-03-03
+806,645,1,50176,Ingeniería de Sistemas y Computación,INACTIVE,2019-10-27,2026-08-25
+807,646,1,415636,Ingeniería de Sistemas y Computación,ACTIVE,2010-12-23,2017-07-25
+808,647,2,80921,Ingeniería Electrónica,ACTIVE,2009-08-30,2013-07-09
+809,648,1,15973,Ingeniería de Sistemas y Computación,ACTIVE,2011-04-28,2017-01-29
+810,649,1,246374,Ingeniería de Sistemas y Computación,ACTIVE,2014-03-06,2018-06-27
+811,650,1,356318,Ingeniería de Sistemas y Computación,ACTIVE,2008-07-28,2012-10-24
+812,651,1,431198,Ingeniería de Sistemas y Computación,ACTIVE,2020-02-20,2024-04-14
+813,652,1,346598,Ingeniería de Sistemas y Computación,ACTIVE,2016-07-28,2020-01-29
+814,653,1,367940,Ingeniería de Sistemas y Computación,ACTIVE,2021-11-17,2025-06-12
+815,654,1,115864,Ingeniería de Sistemas y Computación,INACTIVE,2014-05-01,2019-03-31
+816,654,1,151391,Ingeniería de Sistemas y Computación,ACTIVE,2010-01-22,2015-03-08
+817,654,1,293692,Ingeniería de Sistemas y Computación,ACTIVE,2008-05-29,2012-11-08
+818,655,3,491070,Ingeniería Mecatrónica,INACTIVE,2021-05-17,2025-03-03
+819,655,1,66994,Ingeniería de Sistemas y Computación,ACTIVE,2011-06-16,2016-10-24
+820,656,1,256640,Ingeniería de Sistemas y Computación,ACTIVE,2015-07-13,2020-11-07
+821,657,1,255931,Ingeniería de Sistemas y Computación,ACTIVE,2009-11-21,2016-04-04
+822,658,1,239258,Ingeniería de Sistemas y Computación,INACTIVE,2010-11-14,2015-10-30
+823,659,1,266484,Ingeniería de Sistemas y Computación,ACTIVE,2008-05-30,2015-01-18
+824,659,1,455632,Ingeniería de Sistemas y Computación,ACTIVE,2015-03-12,2020-03-17
+825,660,1,401555,Ingeniería de Sistemas y Computación,ACTIVE,2016-09-30,2023-08-14
+826,660,1,211316,Ingeniería de Sistemas y Computación,INACTIVE,2015-05-04,2020-01-11
+827,660,1,236792,Ingeniería de Sistemas y Computación,ACTIVE,2008-02-16,2014-03-28
+828,661,1,267849,Ingeniería de Sistemas y Computación,ACTIVE,2008-04-29,2014-01-31
+829,662,1,494377,Ingeniería de Sistemas y Computación,INACTIVE,2016-02-10,2023-06-28
+830,663,1,372716,Ingeniería de Sistemas y Computación,ACTIVE,2015-12-01,2020-10-03
+831,664,1,431535,Ingeniería de Sistemas y Computación,ACTIVE,2010-02-08,2015-02-08
+832,665,3,67219,Ingeniería Mecatrónica,ACTIVE,2021-01-05,2028-03-29
+833,666,1,223822,Ingeniería de Sistemas y Computación,ACTIVE,2010-07-09,2017-05-20
+834,667,2,139715,Ingeniería Electrónica,INACTIVE,2010-03-16,2016-10-19
+835,668,1,49815,Ingeniería de Sistemas y Computación,ACTIVE,2009-08-09,2013-05-13
+836,669,1,26070,Ingeniería de Sistemas y Computación,ACTIVE,2021-12-05,2025-08-18
+837,670,1,234277,Ingeniería de Sistemas y Computación,ACTIVE,2015-11-28,2020-05-15
+838,670,1,199530,Ingeniería de Sistemas y Computación,INACTIVE,2019-01-30,2026-02-15
+839,671,1,263881,Ingeniería de Sistemas y Computación,ACTIVE,2012-12-01,2018-05-17
+840,672,1,476772,Ingeniería de Sistemas y Computación,ACTIVE,2010-08-31,2015-06-23
+841,673,2,462574,Ingeniería Electrónica,ACTIVE,2020-08-18,2024-04-20
+842,674,1,83884,Ingeniería de Sistemas y Computación,ACTIVE,2010-05-21,2014-06-28
+843,675,1,287966,Ingeniería de Sistemas y Computación,ACTIVE,2021-10-17,2025-01-05
+844,676,1,485065,Ingeniería de Sistemas y Computación,ACTIVE,2015-05-19,2019-08-08
+845,676,1,259675,Ingeniería de Sistemas y Computación,INACTIVE,2011-02-18,
+846,676,1,181105,Ingeniería de Sistemas y Computación,ACTIVE,2012-05-15,2018-01-18
+847,677,1,428810,Ingeniería de Sistemas y Computación,ACTIVE,2014-11-17,2018-11-22
+848,678,2,26293,Ingeniería Electrónica,ACTIVE,2016-10-07,2023-11-25
+849,678,1,483609,Ingeniería de Sistemas y Computación,ACTIVE,2016-10-10,2023-08-17
+850,679,1,311642,Ingeniería de Sistemas y Computación,ACTIVE,2017-04-24,2024-07-26
+851,680,1,137437,Ingeniería de Sistemas y Computación,ACTIVE,2010-11-02,2016-04-10
+852,681,1,482993,Ingeniería de Sistemas y Computación,ACTIVE,2012-05-08,2016-06-20
+853,681,1,441263,Ingeniería de Sistemas y Computación,ACTIVE,2012-12-19,2017-09-13
+854,682,1,164235,Ingeniería de Sistemas y Computación,INACTIVE,2017-09-11,2024-08-20
+855,683,2,328056,Ingeniería Electrónica,ACTIVE,2011-01-23,2017-04-09
+856,684,2,172619,Ingeniería Electrónica,ACTIVE,2010-01-09,2014-10-14
+857,685,3,160540,Ingeniería Mecatrónica,ACTIVE,2016-01-21,2020-01-08
+858,686,1,415546,Ingeniería de Sistemas y Computación,ACTIVE,2011-06-02,2018-08-03
+859,687,2,13419,Ingeniería Electrónica,ACTIVE,2013-11-23,2020-07-06
+860,688,1,446046,Ingeniería de Sistemas y Computación,ACTIVE,2011-03-26,2018-12-16
+861,689,1,449503,Ingeniería de Sistemas y Computación,ACTIVE,2009-02-26,2015-10-09
+862,690,1,436516,Ingeniería de Sistemas y Computación,ACTIVE,2018-11-01,2025-05-18
+863,691,1,298596,Ingeniería de Sistemas y Computación,ACTIVE,2020-03-18,2024-02-03
+864,691,2,99745,Ingeniería Electrónica,ACTIVE,2012-08-15,2016-02-23
+865,692,1,73566,Ingeniería de Sistemas y Computación,ACTIVE,2022-10-20,2029-11-04
+866,693,1,328922,Ingeniería de Sistemas y Computación,ACTIVE,2022-12-21,2029-02-27
+867,693,1,399527,Ingeniería de Sistemas y Computación,ACTIVE,2017-02-24,2024-02-27
+868,694,1,242637,Ingeniería de Sistemas y Computación,INACTIVE,2019-07-19,
+869,695,1,336953,Ingeniería de Sistemas y Computación,ACTIVE,2011-11-14,2018-10-01
+870,695,1,435886,Ingeniería de Sistemas y Computación,ACTIVE,2013-03-24,2019-04-10
+871,696,1,119119,Ingeniería de Sistemas y Computación,ACTIVE,2013-01-01,2020-08-06
+872,697,3,471702,Ingeniería Mecatrónica,ACTIVE,2021-06-24,2028-02-23
+873,698,1,155842,Ingeniería de Sistemas y Computación,ACTIVE,2013-07-02,2020-04-20
+874,699,1,468645,Ingeniería de Sistemas y Computación,ACTIVE,2008-02-28,2014-03-10
+875,699,2,362095,Ingeniería Electrónica,ACTIVE,2018-11-02,2023-03-08
+876,699,1,488845,Ingeniería de Sistemas y Computación,ACTIVE,2016-12-07,2023-09-10
+877,700,1,469137,Ingeniería de Sistemas y Computación,ACTIVE,2012-02-08,2017-07-18
+878,701,1,294361,Ingeniería de Sistemas y Computación,ACTIVE,2018-09-27,2023-04-14
+879,702,1,249751,Ingeniería de Sistemas y Computación,ACTIVE,2011-09-24,2016-12-06
+880,703,2,108331,Ingeniería Electrónica,ACTIVE,2016-05-26,2020-07-12
+881,704,1,101665,Ingeniería de Sistemas y Computación,ACTIVE,2010-03-03,2015-09-13
+882,704,1,307848,Ingeniería de Sistemas y Computación,INACTIVE,2020-04-22,2025-05-05
+883,704,1,291590,Ingeniería de Sistemas y Computación,INACTIVE,2021-04-17,2025-10-24
+884,705,1,477497,Ingeniería de Sistemas y Computación,ACTIVE,2022-06-24,2029-04-14
+885,706,2,470562,Ingeniería Electrónica,ACTIVE,2018-05-05,2023-09-30
+886,706,2,304368,Ingeniería Electrónica,ACTIVE,2013-05-06,2019-07-07
+887,707,1,179295,Ingeniería de Sistemas y Computación,ACTIVE,2013-09-14,2017-03-06
+888,708,1,20793,Ingeniería de Sistemas y Computación,ACTIVE,2018-05-19,2025-10-16
+889,709,1,281790,Ingeniería de Sistemas y Computación,ACTIVE,2021-08-09,2027-02-18
+890,710,1,482695,Ingeniería de Sistemas y Computación,ACTIVE,2017-09-06,2023-06-17
+891,711,1,157304,Ingeniería de Sistemas y Computación,ACTIVE,2013-02-19,2018-05-12
+892,712,1,122584,Ingeniería de Sistemas y Computación,ACTIVE,2013-01-22,2018-12-03
+893,713,1,188449,Ingeniería de Sistemas y Computación,ACTIVE,2018-02-14,2022-04-29
+894,714,1,121773,Ingeniería de Sistemas y Computación,ACTIVE,2013-03-09,2018-07-01
+895,715,1,312108,Ingeniería de Sistemas y Computación,ACTIVE,2018-04-03,2024-12-31
+896,715,1,292775,Ingeniería de Sistemas y Computación,ACTIVE,2017-08-02,2021-10-02
+897,715,1,165586,Ingeniería de Sistemas y Computación,ACTIVE,2020-11-15,2027-06-03
+898,716,1,181240,Ingeniería de Sistemas y Computación,ACTIVE,2009-06-16,2014-11-26
+899,717,1,376931,Ingeniería de Sistemas y Computación,ACTIVE,2012-06-30,2016-06-08
+900,718,1,219178,Ingeniería de Sistemas y Computación,ACTIVE,2022-10-05,2029-08-05
+901,718,3,128118,Ingeniería Mecatrónica,ACTIVE,2010-01-23,2017-01-26
+902,719,1,124310,Ingeniería de Sistemas y Computación,ACTIVE,2020-06-03,2024-04-04
+903,719,1,154500,Ingeniería de Sistemas y Computación,ACTIVE,2009-03-11,2016-10-02
+904,720,1,396289,Ingeniería de Sistemas y Computación,ACTIVE,2009-01-12,2015-02-17
+905,720,1,54831,Ingeniería de Sistemas y Computación,ACTIVE,2015-04-15,2021-09-23
+906,721,1,377412,Ingeniería de Sistemas y Computación,ACTIVE,2015-01-01,2022-10-21
+907,721,2,89572,Ingeniería Electrónica,ACTIVE,2009-07-04,2016-12-29
+908,721,1,99576,Ingeniería de Sistemas y Computación,ACTIVE,2020-04-23,2024-02-24
+909,722,2,356314,Ingeniería Electrónica,INACTIVE,2012-12-09,2017-12-27
+910,723,2,390728,Ingeniería Electrónica,ACTIVE,2022-02-08,2029-08-01
+911,724,1,146067,Ingeniería de Sistemas y Computación,ACTIVE,2017-10-19,2024-05-16
+912,725,1,337780,Ingeniería de Sistemas y Computación,ACTIVE,2012-07-03,2016-11-04
+913,726,1,265322,Ingeniería de Sistemas y Computación,ACTIVE,2012-06-30,2017-01-19
+914,727,1,352900,Ingeniería de Sistemas y Computación,INACTIVE,2017-07-08,2024-09-03
+915,728,1,474339,Ingeniería de Sistemas y Computación,ACTIVE,2022-05-03,2028-10-15
+916,728,3,113396,Ingeniería Mecatrónica,ACTIVE,2022-10-09,2026-09-10
+917,729,1,280016,Ingeniería de Sistemas y Computación,ACTIVE,2021-02-20,2028-04-05
+918,730,2,122145,Ingeniería Electrónica,ACTIVE,2016-03-08,2020-08-06
+919,731,1,211888,Ingeniería de Sistemas y Computación,ACTIVE,2014-12-20,2018-10-10
+920,732,1,232550,Ingeniería de Sistemas y Computación,ACTIVE,2012-02-14,2016-06-17
+921,733,1,31139,Ingeniería de Sistemas y Computación,ACTIVE,2021-07-01,2026-05-10
+922,734,1,162165,Ingeniería de Sistemas y Computación,ACTIVE,2015-12-16,2021-02-15
+923,734,1,108231,Ingeniería de Sistemas y Computación,ACTIVE,2020-04-08,2024-02-19
+924,735,1,486591,Ingeniería de Sistemas y Computación,ACTIVE,2018-07-03,2025-08-26
+925,736,1,388071,Ingeniería de Sistemas y Computación,ACTIVE,2016-10-07,2020-08-08
+926,737,1,456679,Ingeniería de Sistemas y Computación,ACTIVE,2008-03-30,2012-12-09
+927,738,1,362166,Ingeniería de Sistemas y Computación,ACTIVE,2022-10-31,2028-10-07
+928,739,1,141948,Ingeniería de Sistemas y Computación,ACTIVE,2014-05-24,2021-09-09
+929,740,1,271957,Ingeniería de Sistemas y Computación,ACTIVE,2021-11-21,2026-01-05
+930,740,1,217133,Ingeniería de Sistemas y Computación,ACTIVE,2010-02-06,2015-03-20
+931,740,1,439157,Ingeniería de Sistemas y Computación,ACTIVE,2021-08-05,2027-03-31
+932,741,1,239971,Ingeniería de Sistemas y Computación,ACTIVE,2022-11-22,2029-08-11
+933,742,1,188096,Ingeniería de Sistemas y Computación,ACTIVE,2019-01-26,2024-09-14
+934,743,1,408412,Ingeniería de Sistemas y Computación,ACTIVE,2013-11-11,2017-07-25
+935,744,1,75255,Ingeniería de Sistemas y Computación,ACTIVE,2010-11-27,2017-06-27
+936,745,1,334299,Ingeniería de Sistemas y Computación,ACTIVE,2017-11-17,2024-07-14
+937,746,1,288566,Ingeniería de Sistemas y Computación,ACTIVE,2019-07-21,2024-04-27
+938,747,1,183245,Ingeniería de Sistemas y Computación,INACTIVE,2012-04-21,2016-01-25
+939,748,2,125698,Ingeniería Electrónica,ACTIVE,2020-05-07,2027-03-22
+940,748,1,489764,Ingeniería de Sistemas y Computación,ACTIVE,2016-02-21,2021-05-11
+941,748,1,206054,Ingeniería de Sistemas y Computación,ACTIVE,2016-05-24,2023-01-02
+942,749,1,490963,Ingeniería de Sistemas y Computación,INACTIVE,2012-02-14,2016-08-25
+943,750,1,335067,Ingeniería de Sistemas y Computación,ACTIVE,2020-12-31,2027-11-01
+944,751,2,12311,Ingeniería Electrónica,ACTIVE,2016-01-01,2022-07-14
+945,752,1,282885,Ingeniería de Sistemas y Computación,ACTIVE,2017-10-25,2023-10-15
+946,752,1,261833,Ingeniería de Sistemas y Computación,ACTIVE,2017-06-05,2023-12-29
+947,753,1,307467,Ingeniería de Sistemas y Computación,ACTIVE,2010-04-27,2014-04-07
+948,754,1,378265,Ingeniería de Sistemas y Computación,ACTIVE,2014-03-01,2018-01-25
+949,755,1,457831,Ingeniería de Sistemas y Computación,INACTIVE,2009-11-22,2016-11-27
+950,756,1,325781,Ingeniería de Sistemas y Computación,ACTIVE,2013-07-15,2017-06-27
+951,756,1,35781,Ingeniería de Sistemas y Computación,ACTIVE,2018-08-01,2022-05-22
+952,757,1,391176,Ingeniería de Sistemas y Computación,ACTIVE,2019-04-17,2025-05-11
+953,758,1,177691,Ingeniería de Sistemas y Computación,ACTIVE,2015-06-18,2022-11-29
+954,759,1,482585,Ingeniería de Sistemas y Computación,ACTIVE,2011-11-27,2018-03-17
+955,760,1,293024,Ingeniería de Sistemas y Computación,ACTIVE,2015-11-08,2021-01-19
+956,761,1,420783,Ingeniería de Sistemas y Computación,INACTIVE,2023-01-29,
+957,762,1,321961,Ingeniería de Sistemas y Computación,INACTIVE,2013-04-15,2017-01-30
+958,763,1,289765,Ingeniería de Sistemas y Computación,ACTIVE,2016-06-21,2022-12-23
+959,764,1,255022,Ingeniería de Sistemas y Computación,ACTIVE,2010-12-18,2017-10-27
+960,765,1,13832,Ingeniería de Sistemas y Computación,ACTIVE,2021-04-23,2026-05-13
+961,766,1,458839,Ingeniería de Sistemas y Computación,ACTIVE,2014-09-21,2021-05-11
+962,767,1,106926,Ingeniería de Sistemas y Computación,ACTIVE,2011-04-19,2017-11-09
+963,768,1,440678,Ingeniería de Sistemas y Computación,ACTIVE,2018-12-01,2025-02-24
+964,768,3,378825,Ingeniería Mecatrónica,ACTIVE,2008-02-23,2013-01-23
+965,769,1,313225,Ingeniería de Sistemas y Computación,ACTIVE,2011-01-18,2016-10-16
+966,769,1,329785,Ingeniería de Sistemas y Computación,ACTIVE,2021-12-17,2028-03-16
+967,770,1,327920,Ingeniería de Sistemas y Computación,ACTIVE,2010-12-22,2014-09-20
+968,771,1,288024,Ingeniería de Sistemas y Computación,ACTIVE,2012-03-06,2018-04-01
+969,772,1,114171,Ingeniería de Sistemas y Computación,INACTIVE,2021-10-11,2026-02-19
+970,773,1,175047,Ingeniería de Sistemas y Computación,ACTIVE,2011-10-25,2017-07-27
+971,774,1,112432,Ingeniería de Sistemas y Computación,ACTIVE,2022-08-24,2027-10-19
+972,775,1,416199,Ingeniería de Sistemas y Computación,ACTIVE,2010-11-23,2014-10-08
+973,776,1,415150,Ingeniería de Sistemas y Computación,ACTIVE,2008-04-30,2013-09-01
+974,776,1,265200,Ingeniería de Sistemas y Computación,INACTIVE,2008-10-18,2014-07-11
+975,777,1,136643,Ingeniería de Sistemas y Computación,ACTIVE,2016-09-28,2021-10-10
+976,778,1,390132,Ingeniería de Sistemas y Computación,ACTIVE,2021-04-07,2026-08-19
+977,779,1,104080,Ingeniería de Sistemas y Computación,INACTIVE,2010-06-24,2016-09-10
+978,780,1,119431,Ingeniería de Sistemas y Computación,ACTIVE,2019-01-05,2024-07-10
+979,781,1,109741,Ingeniería de Sistemas y Computación,ACTIVE,2012-10-07,2017-06-21
+980,782,1,16838,Ingeniería de Sistemas y Computación,ACTIVE,2012-05-03,2018-07-06
+981,783,1,38397,Ingeniería de Sistemas y Computación,ACTIVE,2022-03-08,2027-01-21
+982,784,1,466359,Ingeniería de Sistemas y Computación,ACTIVE,2012-08-22,2019-09-06
+983,785,1,125248,Ingeniería de Sistemas y Computación,ACTIVE,2018-07-13,2023-03-16
+984,785,2,323837,Ingeniería Electrónica,ACTIVE,2023-02-22,2030-10-24
+985,786,1,177983,Ingeniería de Sistemas y Computación,ACTIVE,2021-07-25,2025-06-17
+986,787,1,276602,Ingeniería de Sistemas y Computación,INACTIVE,2016-11-30,2021-07-31
+987,787,2,101474,Ingeniería Electrónica,ACTIVE,2018-11-10,2024-10-09
+988,788,1,46310,Ingeniería de Sistemas y Computación,ACTIVE,2018-04-06,2025-05-01
+989,789,1,104354,Ingeniería de Sistemas y Computación,ACTIVE,2008-05-01,2012-06-15
+990,790,1,152798,Ingeniería de Sistemas y Computación,ACTIVE,2020-10-10,2027-05-21
+991,791,1,148889,Ingeniería de Sistemas y Computación,ACTIVE,2010-10-13,2015-10-18
+992,792,1,18746,Ingeniería de Sistemas y Computación,INACTIVE,2020-02-14,
+993,793,1,163120,Ingeniería de Sistemas y Computación,ACTIVE,2009-05-27,2013-12-27
+994,794,1,144279,Ingeniería de Sistemas y Computación,ACTIVE,2019-01-11,2024-05-14
+995,795,1,364528,Ingeniería de Sistemas y Computación,ACTIVE,2011-02-28,2017-12-11
+996,796,1,494423,Ingeniería de Sistemas y Computación,INACTIVE,2020-03-20,2026-11-13
+997,797,1,19539,Ingeniería de Sistemas y Computación,ACTIVE,2021-12-20,2025-02-06
+998,798,1,403552,Ingeniería de Sistemas y Computación,ACTIVE,2019-04-30,2025-10-04
+999,799,1,306147,Ingeniería de Sistemas y Computación,ACTIVE,2020-02-24,2027-08-26
+1000,800,2,258973,Ingeniería Electrónica,ACTIVE,2010-08-08,2014-05-27
+1001,800,1,373623,Ingeniería de Sistemas y Computación,ACTIVE,2019-06-14,2026-02-28
+1002,801,1,329175,Ingeniería de Sistemas y Computación,ACTIVE,2017-06-14,2021-03-19
+1003,802,2,423483,Ingeniería Electrónica,ACTIVE,2011-07-22,2016-04-04
+1004,803,1,347499,Ingeniería de Sistemas y Computación,ACTIVE,2017-03-31,2022-04-11
+1005,804,1,111844,Ingeniería de Sistemas y Computación,ACTIVE,2021-12-19,2027-09-13
+1006,804,1,356566,Ingeniería de Sistemas y Computación,ACTIVE,2022-11-21,2026-05-22
+1007,805,1,400771,Ingeniería de Sistemas y Computación,ACTIVE,2013-04-09,2017-01-07
+1008,806,1,68775,Ingeniería de Sistemas y Computación,ACTIVE,2014-10-23,2021-11-27
+1009,807,3,26218,Ingeniería Mecatrónica,ACTIVE,2010-06-14,2015-08-30
+1010,808,1,102213,Ingeniería de Sistemas y Computación,ACTIVE,2022-09-19,2027-07-18
+1011,809,1,352581,Ingeniería de Sistemas y Computación,ACTIVE,2022-03-11,2026-05-26
+1012,810,3,174737,Ingeniería Mecatrónica,ACTIVE,2014-01-15,2018-06-03
+1013,811,1,146368,Ingeniería de Sistemas y Computación,ACTIVE,2016-11-22,2020-03-08
+1014,812,1,320971,Ingeniería de Sistemas y Computación,ACTIVE,2014-01-04,2019-08-27
+1015,813,1,156204,Ingeniería de Sistemas y Computación,INACTIVE,2008-02-09,2015-03-23
+1016,814,1,285912,Ingeniería de Sistemas y Computación,ACTIVE,2010-11-09,2016-03-10
+1017,815,1,307475,Ingeniería de Sistemas y Computación,ACTIVE,2012-10-20,2016-04-28
+1018,816,1,344151,Ingeniería de Sistemas y Computación,INACTIVE,2016-08-18,2022-07-12
+1019,817,1,338218,Ingeniería de Sistemas y Computación,ACTIVE,2008-11-21,2014-04-22
+1020,818,1,94500,Ingeniería de Sistemas y Computación,ACTIVE,2012-04-03,2017-10-07
+1021,819,1,267909,Ingeniería de Sistemas y Computación,ACTIVE,2016-02-18,2023-12-11
+1022,819,1,387565,Ingeniería de Sistemas y Computación,ACTIVE,2017-09-30,2023-05-08
+1023,820,1,396739,Ingeniería de Sistemas y Computación,ACTIVE,2016-11-09,2023-04-21
+1024,821,1,242247,Ingeniería de Sistemas y Computación,ACTIVE,2021-02-05,2028-01-05
+1025,821,1,75144,Ingeniería de Sistemas y Computación,ACTIVE,2012-12-28,2019-08-26
+1026,821,1,351523,Ingeniería de Sistemas y Computación,ACTIVE,2021-03-05,2025-11-14
+1027,822,1,245417,Ingeniería de Sistemas y Computación,ACTIVE,2018-01-12,2022-01-13
+1028,823,3,175641,Ingeniería Mecatrónica,ACTIVE,2017-03-09,2022-07-29
+1029,824,1,99665,Ingeniería de Sistemas y Computación,ACTIVE,2012-01-26,2016-04-03
+1030,824,1,362175,Ingeniería de Sistemas y Computación,ACTIVE,2016-03-24,2023-02-24
+1031,825,1,286870,Ingeniería de Sistemas y Computación,ACTIVE,2013-10-19,2020-09-11
+1032,826,3,279515,Ingeniería Mecatrónica,ACTIVE,2022-06-13,2029-12-03
+1033,827,1,425348,Ingeniería de Sistemas y Computación,ACTIVE,2012-04-15,2017-11-12
+1034,827,1,246821,Ingeniería de Sistemas y Computación,ACTIVE,2012-05-05,2017-02-05
+1035,828,1,330173,Ingeniería de Sistemas y Computación,ACTIVE,2022-11-22,2026-05-23
+1036,829,1,246453,Ingeniería de Sistemas y Computación,ACTIVE,2013-08-30,2017-08-16
+1037,830,1,10219,Ingeniería de Sistemas y Computación,ACTIVE,2011-08-22,2015-10-16
+1038,830,1,489588,Ingeniería de Sistemas y Computación,ACTIVE,2014-11-21,2020-12-29
+1039,831,1,83656,Ingeniería de Sistemas y Computación,ACTIVE,2013-07-15,2018-07-09
+1040,832,2,73805,Ingeniería Electrónica,INACTIVE,2013-03-31,2020-05-18
+1041,832,1,226581,Ingeniería de Sistemas y Computación,ACTIVE,2022-04-06,2027-02-20
+1042,833,1,180613,Ingeniería de Sistemas y Computación,ACTIVE,2020-08-03,2024-06-30
+1043,834,1,51641,Ingeniería de Sistemas y Computación,ACTIVE,2008-11-29,2012-06-07
+1044,835,2,209761,Ingeniería Electrónica,ACTIVE,2013-09-04,2020-04-11
+1045,836,1,392498,Ingeniería de Sistemas y Computación,ACTIVE,2017-04-20,2024-11-03
+1046,837,1,338347,Ingeniería de Sistemas y Computación,ACTIVE,2009-03-07,2015-12-28
+1047,838,1,232372,Ingeniería de Sistemas y Computación,ACTIVE,2013-03-25,2017-01-02
+1048,839,1,397021,Ingeniería de Sistemas y Computación,ACTIVE,2013-04-11,2019-01-18
+1049,840,1,446300,Ingeniería de Sistemas y Computación,ACTIVE,2022-04-11,2026-07-28
+1050,841,1,441234,Ingeniería de Sistemas y Computación,ACTIVE,2019-05-05,2025-05-03
+1051,842,1,430030,Ingeniería de Sistemas y Computación,ACTIVE,2014-07-05,2018-03-06
+1052,842,1,413070,Ingeniería de Sistemas y Computación,ACTIVE,2015-09-05,2022-02-07
+1053,843,1,25678,Ingeniería de Sistemas y Computación,ACTIVE,2015-05-10,2021-06-23
+1054,844,1,447460,Ingeniería de Sistemas y Computación,ACTIVE,2022-03-21,2026-08-13
+1055,845,1,21322,Ingeniería de Sistemas y Computación,ACTIVE,2019-09-28,2025-04-30
+1056,846,1,81499,Ingeniería de Sistemas y Computación,ACTIVE,2016-02-14,2022-06-24
+1057,847,2,91720,Ingeniería Electrónica,ACTIVE,2012-03-05,2017-01-21
+1058,848,1,372871,Ingeniería de Sistemas y Computación,ACTIVE,2018-02-27,2022-09-13
+1059,849,1,52509,Ingeniería de Sistemas y Computación,ACTIVE,2020-02-28,2026-11-02
+1060,850,1,74374,Ingeniería de Sistemas y Computación,ACTIVE,2019-09-01,2026-11-22
+1061,851,1,239300,Ingeniería de Sistemas y Computación,ACTIVE,2022-04-12,2029-12-19
+1062,852,1,70128,Ingeniería de Sistemas y Computación,ACTIVE,2010-11-21,2015-08-18
+1063,852,1,116152,Ingeniería de Sistemas y Computación,ACTIVE,2009-05-03,2013-01-01
+1064,853,1,98546,Ingeniería de Sistemas y Computación,ACTIVE,2011-07-15,2017-02-25
+1065,854,1,359054,Ingeniería de Sistemas y Computación,ACTIVE,2018-04-10,2024-05-20
+1066,855,2,74784,Ingeniería Electrónica,ACTIVE,2016-04-19,2022-07-10
+1067,856,1,387011,Ingeniería de Sistemas y Computación,ACTIVE,2013-01-05,2019-04-24
+1068,857,2,167786,Ingeniería Electrónica,ACTIVE,2016-07-05,2023-07-18
+1069,858,1,400467,Ingeniería de Sistemas y Computación,ACTIVE,2021-10-25,2025-07-21
+1070,859,1,397635,Ingeniería de Sistemas y Computación,ACTIVE,2020-02-23,2024-08-28
+1071,860,1,317012,Ingeniería de Sistemas y Computación,ACTIVE,2022-01-23,2026-12-27
+1072,861,2,117516,Ingeniería Electrónica,ACTIVE,2011-01-30,2018-05-31
+1073,861,1,43869,Ingeniería de Sistemas y Computación,ACTIVE,2017-04-23,2021-11-10
+1074,862,1,496507,Ingeniería de Sistemas y Computación,ACTIVE,2014-10-09,2021-12-21
+1075,863,1,448061,Ingeniería de Sistemas y Computación,INACTIVE,2011-04-09,2015-11-02
+1076,864,1,78885,Ingeniería de Sistemas y Computación,ACTIVE,2016-01-23,2023-07-15
+1077,865,1,44587,Ingeniería de Sistemas y Computación,ACTIVE,2022-09-20,2029-04-29
+1078,866,1,18376,Ingeniería de Sistemas y Computación,INACTIVE,2011-09-13,2017-03-11
+1079,867,1,310161,Ingeniería de Sistemas y Computación,ACTIVE,2010-10-30,2014-01-22
+1080,868,1,396182,Ingeniería de Sistemas y Computación,INACTIVE,2015-05-19,2021-06-13
+1081,869,1,215327,Ingeniería de Sistemas y Computación,ACTIVE,2018-10-23,2023-09-23
+1082,870,1,43642,Ingeniería de Sistemas y Computación,ACTIVE,2013-01-13,2019-05-28
+1083,871,1,167196,Ingeniería de Sistemas y Computación,ACTIVE,2017-02-20,2021-12-13
+1084,872,1,497832,Ingeniería de Sistemas y Computación,ACTIVE,2016-02-11,2023-02-21
+1085,872,2,44546,Ingeniería Electrónica,ACTIVE,2022-09-14,2027-04-07
+1086,873,2,263237,Ingeniería Electrónica,ACTIVE,2022-06-14,2029-05-19
+1087,874,1,334329,Ingeniería de Sistemas y Computación,ACTIVE,2014-10-13,2018-05-04
+1088,875,3,437857,Ingeniería Mecatrónica,ACTIVE,2009-08-25,2013-12-20
+1089,876,1,342127,Ingeniería de Sistemas y Computación,ACTIVE,2014-07-24,2020-05-25
+1090,877,1,493371,Ingeniería de Sistemas y Computación,ACTIVE,2012-07-18,2016-04-24
+1091,878,2,168833,Ingeniería Electrónica,ACTIVE,2008-05-08,2013-07-22
+1092,878,1,320765,Ingeniería de Sistemas y Computación,ACTIVE,2015-08-03,2019-10-05
+1093,879,1,169126,Ingeniería de Sistemas y Computación,ACTIVE,2019-02-14,2026-03-27
+1094,880,1,426345,Ingeniería de Sistemas y Computación,ACTIVE,2009-08-11,2015-11-27
+1095,881,1,352190,Ingeniería de Sistemas y Computación,INACTIVE,2010-07-11,2017-03-16
+1096,882,2,220831,Ingeniería Electrónica,ACTIVE,2020-02-09,2024-08-20
+1097,882,3,302140,Ingeniería Mecatrónica,ACTIVE,2018-11-01,2022-04-25
+1098,883,1,181491,Ingeniería de Sistemas y Computación,ACTIVE,2015-11-21,2020-01-15
+1099,884,1,301448,Ingeniería de Sistemas y Computación,INACTIVE,2012-07-02,2016-04-21
+1100,885,1,406772,Ingeniería de Sistemas y Computación,ACTIVE,2013-05-28,2017-07-06
+1101,886,1,244064,Ingeniería de Sistemas y Computación,ACTIVE,2012-06-26,2016-12-01
+1102,886,1,64326,Ingeniería de Sistemas y Computación,ACTIVE,2018-10-02,2024-06-28
+1103,887,1,466064,Ingeniería de Sistemas y Computación,ACTIVE,2016-06-06,2020-09-01
+1104,888,1,86464,Ingeniería de Sistemas y Computación,ACTIVE,2019-04-21,2025-03-10
+1105,889,1,203160,Ingeniería de Sistemas y Computación,ACTIVE,2009-11-25,2015-10-24
+1106,890,1,262408,Ingeniería de Sistemas y Computación,ACTIVE,2015-05-29,2020-09-20
+1107,891,1,362781,Ingeniería de Sistemas y Computación,INACTIVE,2009-12-17,2014-10-22
+1108,892,1,69740,Ingeniería de Sistemas y Computación,ACTIVE,2022-08-08,2027-08-03
+1109,893,1,394602,Ingeniería de Sistemas y Computación,ACTIVE,2016-02-15,2022-09-23
+1110,894,1,65761,Ingeniería de Sistemas y Computación,ACTIVE,2010-10-24,2017-08-07
+1111,894,1,304302,Ingeniería de Sistemas y Computación,ACTIVE,2021-07-25,2027-06-05
+1112,895,1,176642,Ingeniería de Sistemas y Computación,ACTIVE,2022-03-01,2026-02-20
+1113,896,1,134683,Ingeniería de Sistemas y Computación,ACTIVE,2022-10-04,2027-05-19
+1114,897,1,215252,Ingeniería de Sistemas y Computación,INACTIVE,2020-11-20,2027-11-06
+1115,898,1,319150,Ingeniería de Sistemas y Computación,ACTIVE,2016-12-14,2023-05-16
+1116,899,1,435439,Ingeniería de Sistemas y Computación,ACTIVE,2022-05-03,2027-01-09
+1117,900,1,107430,Ingeniería de Sistemas y Computación,ACTIVE,2022-07-03,2027-08-25
+1118,901,2,81157,Ingeniería Electrónica,ACTIVE,2018-10-02,2023-07-02
+1119,902,1,456240,Ingeniería de Sistemas y Computación,ACTIVE,2012-08-30,2017-01-21
+1120,903,1,328035,Ingeniería de Sistemas y Computación,ACTIVE,2013-11-24,2017-11-16
+1121,904,1,238073,Ingeniería de Sistemas y Computación,ACTIVE,2015-09-12,2019-06-17
+1122,905,1,381034,Ingeniería de Sistemas y Computación,ACTIVE,2010-11-26,2015-08-15
+1123,906,1,38417,Ingeniería de Sistemas y Computación,ACTIVE,2017-12-18,2024-01-05
+1124,906,1,460886,Ingeniería de Sistemas y Computación,ACTIVE,2008-03-01,2012-10-24
+1125,907,1,225334,Ingeniería de Sistemas y Computación,ACTIVE,2019-01-02,2026-04-20
+1126,907,1,73572,Ingeniería de Sistemas y Computación,ACTIVE,2018-01-16,2025-03-08
+1127,908,1,451565,Ingeniería de Sistemas y Computación,ACTIVE,2019-02-22,2026-12-05
+1128,909,1,494561,Ingeniería de Sistemas y Computación,ACTIVE,2010-09-27,2017-03-13
+1129,910,1,105160,Ingeniería de Sistemas y Computación,ACTIVE,2019-07-18,2023-08-30
+1130,911,1,131999,Ingeniería de Sistemas y Computación,ACTIVE,2021-01-16,2028-11-21
+1131,912,1,159397,Ingeniería de Sistemas y Computación,ACTIVE,2010-01-13,2015-12-26
+1132,913,1,399054,Ingeniería de Sistemas y Computación,ACTIVE,2013-06-29,2020-02-21
+1133,914,1,21755,Ingeniería de Sistemas y Computación,ACTIVE,2012-09-28,2019-07-25
+1134,915,1,216114,Ingeniería de Sistemas y Computación,ACTIVE,2022-10-20,2027-11-30
+1135,916,1,400471,Ingeniería de Sistemas y Computación,ACTIVE,2011-01-01,2015-06-13
+1136,916,1,169940,Ingeniería de Sistemas y Computación,ACTIVE,2015-04-17,2020-01-26
+1137,917,1,143387,Ingeniería de Sistemas y Computación,INACTIVE,2017-10-02,2021-12-12
+1138,918,2,252081,Ingeniería Electrónica,ACTIVE,2021-02-17,2025-12-13
+1139,919,1,90731,Ingeniería de Sistemas y Computación,ACTIVE,2018-03-28,2023-12-12
+1140,920,1,78190,Ingeniería de Sistemas y Computación,ACTIVE,2012-06-23,2019-09-29
+1141,921,1,299890,Ingeniería de Sistemas y Computación,ACTIVE,2011-08-23,2016-06-07
+1142,922,1,429261,Ingeniería de Sistemas y Computación,ACTIVE,2016-10-12,2023-03-05
+1143,923,2,11746,Ingeniería Electrónica,ACTIVE,2008-12-12,2013-04-04
+1144,924,1,297057,Ingeniería de Sistemas y Computación,ACTIVE,2022-01-22,2028-08-05
+1145,925,1,439149,Ingeniería de Sistemas y Computación,ACTIVE,2017-05-11,2023-11-15
+1146,926,1,153269,Ingeniería de Sistemas y Computación,ACTIVE,2020-02-23,2024-12-27
+1147,927,1,479134,Ingeniería de Sistemas y Computación,ACTIVE,2011-02-08,2016-01-16
+1148,928,1,365595,Ingeniería de Sistemas y Computación,ACTIVE,2022-06-18,2029-11-11
+1149,929,1,283504,Ingeniería de Sistemas y Computación,ACTIVE,2018-10-31,2022-07-06
+1150,929,1,27072,Ingeniería de Sistemas y Computación,ACTIVE,2018-09-02,2023-09-02
+1151,930,1,393371,Ingeniería de Sistemas y Computación,INACTIVE,2013-12-04,2018-02-20
+1152,931,1,122487,Ingeniería de Sistemas y Computación,INACTIVE,2014-10-15,2021-05-31
+1153,932,1,253945,Ingeniería de Sistemas y Computación,ACTIVE,2014-02-01,2021-02-02
+1154,933,1,488135,Ingeniería de Sistemas y Computación,ACTIVE,2015-06-28,2021-04-28
+1155,934,1,322457,Ingeniería de Sistemas y Computación,INACTIVE,2018-12-05,2022-05-28
+1156,934,3,239981,Ingeniería Mecatrónica,ACTIVE,2021-12-15,2025-05-18
+1157,935,1,258494,Ingeniería de Sistemas y Computación,ACTIVE,2016-09-08,2021-10-10
+1158,936,2,379373,Ingeniería Electrónica,ACTIVE,2009-09-13,2013-02-06
+1159,937,3,233525,Ingeniería Mecatrónica,ACTIVE,2011-09-29,2017-07-19
+1160,937,1,498085,Ingeniería de Sistemas y Computación,ACTIVE,2014-05-14,2021-09-03
+1161,938,1,39402,Ingeniería de Sistemas y Computación,ACTIVE,2015-02-26,2020-08-31
+1162,938,1,489811,Ingeniería de Sistemas y Computación,ACTIVE,2018-01-22,2024-08-19
+1163,938,1,262728,Ingeniería de Sistemas y Computación,ACTIVE,2019-10-20,2023-08-17
+1164,939,1,489768,Ingeniería de Sistemas y Computación,ACTIVE,2013-10-04,2017-12-20
+1165,940,3,469726,Ingeniería Mecatrónica,ACTIVE,2020-10-21,2027-06-26
+1166,941,1,367067,Ingeniería de Sistemas y Computación,ACTIVE,2021-10-26,2026-02-18
+1167,942,1,197692,Ingeniería de Sistemas y Computación,INACTIVE,2019-10-17,2024-06-23
+1168,942,1,151438,Ingeniería de Sistemas y Computación,ACTIVE,2012-07-28,2017-12-20
+1169,943,2,316324,Ingeniería Electrónica,ACTIVE,2013-11-05,2020-11-07
+1170,944,1,275272,Ingeniería de Sistemas y Computación,ACTIVE,2013-12-21,2018-10-21
+1171,945,1,373928,Ingeniería de Sistemas y Computación,ACTIVE,2010-10-27,2014-01-11
+1172,946,2,456920,Ingeniería Electrónica,ACTIVE,2013-03-29,2020-09-26
+1173,947,2,246270,Ingeniería Electrónica,ACTIVE,2009-06-07,2016-04-28
+1174,948,2,183386,Ingeniería Electrónica,INACTIVE,2010-09-22,2014-09-29
+1175,948,1,275519,Ingeniería de Sistemas y Computación,ACTIVE,2020-09-27,2025-09-27
+1176,949,1,113514,Ingeniería de Sistemas y Computación,ACTIVE,2010-01-26,2014-09-19
+1177,950,1,331719,Ingeniería de Sistemas y Computación,ACTIVE,2013-08-25,2018-05-19
+1178,951,1,394951,Ingeniería de Sistemas y Computación,ACTIVE,2011-03-23,2018-05-16
+1179,952,1,171707,Ingeniería de Sistemas y Computación,ACTIVE,2023-03-05,2030-09-01
+1180,952,1,163330,Ingeniería de Sistemas y Computación,ACTIVE,2019-01-25,2025-04-12
+1181,953,2,198856,Ingeniería Electrónica,INACTIVE,2021-12-20,2027-10-14
+1182,954,1,92173,Ingeniería de Sistemas y Computación,ACTIVE,2019-01-14,2026-04-10
+1183,955,1,226222,Ingeniería de Sistemas y Computación,ACTIVE,2015-05-29,2022-04-04
+1184,956,1,266482,Ingeniería de Sistemas y Computación,ACTIVE,2018-12-20,2025-06-26
+1185,957,1,124524,Ingeniería de Sistemas y Computación,ACTIVE,2021-06-10,2025-08-31
+1186,957,1,20636,Ingeniería de Sistemas y Computación,ACTIVE,2020-09-25,2027-10-04
+1187,958,1,255689,Ingeniería de Sistemas y Computación,ACTIVE,2019-07-15,2025-07-06
+1188,959,1,127512,Ingeniería de Sistemas y Computación,INACTIVE,2010-11-24,
+1189,960,1,236665,Ingeniería de Sistemas y Computación,ACTIVE,2021-04-16,2028-01-06
+1190,961,1,318906,Ingeniería de Sistemas y Computación,ACTIVE,2012-09-05,2018-01-10
+1191,962,1,134942,Ingeniería de Sistemas y Computación,ACTIVE,2015-10-26,2019-01-29
+1192,963,1,53532,Ingeniería de Sistemas y Computación,ACTIVE,2022-12-03,2027-11-04
+1193,964,1,471176,Ingeniería de Sistemas y Computación,ACTIVE,2016-10-25,2021-05-28
+1194,965,1,326818,Ingeniería de Sistemas y Computación,ACTIVE,2014-12-10,2020-09-24
+1195,966,1,434974,Ingeniería de Sistemas y Computación,ACTIVE,2022-09-27,2026-03-10
+1196,967,1,19872,Ingeniería de Sistemas y Computación,ACTIVE,2013-07-06,2019-05-30
+1197,968,1,346127,Ingeniería de Sistemas y Computación,ACTIVE,2013-08-30,2017-11-09
+1198,968,1,212190,Ingeniería de Sistemas y Computación,ACTIVE,2013-01-20,2017-02-12
+1199,969,1,395403,Ingeniería de Sistemas y Computación,ACTIVE,2013-04-12,2018-08-25
+1200,970,2,267736,Ingeniería Electrónica,ACTIVE,2021-10-07,2025-05-16
+1201,971,1,334837,Ingeniería de Sistemas y Computación,ACTIVE,2021-03-31,2025-06-11
+1202,971,1,16992,Ingeniería de Sistemas y Computación,ACTIVE,2013-02-15,2018-04-24
+1203,972,1,119999,Ingeniería de Sistemas y Computación,INACTIVE,2015-05-23,2020-09-20
+1204,973,2,302991,Ingeniería Electrónica,ACTIVE,2011-02-25,2016-04-29
+1205,974,1,50721,Ingeniería de Sistemas y Computación,ACTIVE,2010-12-09,2015-01-15
+1206,975,1,456131,Ingeniería de Sistemas y Computación,ACTIVE,2009-04-06,2016-12-03
+1207,976,1,399984,Ingeniería de Sistemas y Computación,ACTIVE,2011-03-05,2017-11-04
+1208,977,1,323759,Ingeniería de Sistemas y Computación,ACTIVE,2023-02-09,2029-06-07
+1209,978,1,82473,Ingeniería de Sistemas y Computación,ACTIVE,2009-03-30,2013-06-27
+1210,979,2,133187,Ingeniería Electrónica,ACTIVE,2014-03-29,2018-04-11
+1211,979,1,171794,Ingeniería de Sistemas y Computación,INACTIVE,2008-07-16,2014-07-12
+1212,979,1,81170,Ingeniería de Sistemas y Computación,INACTIVE,2009-03-13,2015-12-31
+1213,980,1,147184,Ingeniería de Sistemas y Computación,INACTIVE,2020-03-20,2024-01-07
+1214,981,1,300680,Ingeniería de Sistemas y Computación,ACTIVE,2011-06-23,2015-12-01
+1215,982,1,435403,Ingeniería de Sistemas y Computación,ACTIVE,2020-12-03,2024-06-28
+1216,982,1,387609,Ingeniería de Sistemas y Computación,ACTIVE,2021-05-18,2028-02-25
+1217,982,1,339988,Ingeniería de Sistemas y Computación,ACTIVE,2013-03-19,2019-07-01
+1218,983,1,355287,Ingeniería de Sistemas y Computación,ACTIVE,2010-06-24,2017-04-08
+1219,984,1,115864,Ingeniería de Sistemas y Computación,ACTIVE,2013-02-18,2019-05-10
+1220,984,1,353489,Ingeniería de Sistemas y Computación,ACTIVE,2023-02-01,2028-01-29
+1221,985,1,353174,Ingeniería de Sistemas y Computación,ACTIVE,2019-03-11,2026-11-05
+1222,985,3,241427,Ingeniería Mecatrónica,ACTIVE,2013-12-01,2020-02-20
+1223,986,1,168596,Ingeniería de Sistemas y Computación,ACTIVE,2022-01-07,2029-09-23
+1224,987,2,53962,Ingeniería Electrónica,INACTIVE,2014-08-04,2018-06-07
+1225,988,1,222032,Ingeniería de Sistemas y Computación,ACTIVE,2013-02-07,2020-11-05
+1226,989,1,275353,Ingeniería de Sistemas y Computación,ACTIVE,2012-03-03,2018-10-22
+1227,989,1,475371,Ingeniería de Sistemas y Computación,INACTIVE,2014-04-09,2018-12-07
+1228,990,1,148591,Ingeniería de Sistemas y Computación,ACTIVE,2012-04-06,2016-01-20
+1229,991,1,308233,Ingeniería de Sistemas y Computación,ACTIVE,2010-08-03,2017-01-17
+1230,992,3,271379,Ingeniería Mecatrónica,ACTIVE,2014-04-11,2019-05-02
+1231,993,1,387351,Ingeniería de Sistemas y Computación,ACTIVE,2009-05-05,2016-09-04
+1232,994,2,300211,Ingeniería Electrónica,ACTIVE,2021-06-01,2025-06-23
+1233,995,2,272620,Ingeniería Electrónica,ACTIVE,2022-02-16,2027-12-01
+1234,996,1,485610,Ingeniería de Sistemas y Computación,ACTIVE,2015-09-17,2020-07-29
+1235,996,1,228215,Ingeniería de Sistemas y Computación,ACTIVE,2010-01-30,2016-04-28
+1236,997,1,250829,Ingeniería de Sistemas y Computación,INACTIVE,2018-05-12,2022-08-05
+1237,997,1,351982,Ingeniería de Sistemas y Computación,ACTIVE,2016-12-23,2020-04-04
+1238,997,1,436493,Ingeniería de Sistemas y Computación,ACTIVE,2022-02-11,2028-03-14
+1239,998,1,414141,Ingeniería de Sistemas y Computación,ACTIVE,2010-06-09,2015-09-04
+1240,999,1,199841,Ingeniería de Sistemas y Computación,INACTIVE,2016-03-11,2021-01-26
+1241,1000,1,122270,Ingeniería de Sistemas y Computación,ACTIVE,2011-02-24,2016-04-29
